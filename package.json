@@ -1,0 +1,30 @@
+{
+  "name": "figma",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint",
+    "token": "token-transformer token/token.json token/tokenBuild.json '#1 primitive/Light','#2 Semantic/Mode 1' '#1 primitive/Light' && node token/transformToken.js"
+  },
+  "dependencies": {
+    "next": "14.2.4",
+    "react": "^18",
+    "react-dom": "^18"
+  },
+  "devDependencies": {
+    "@tokens-studio/sd-transforms": "^0.16.1",
+    "@types/node": "^20",
+    "@types/react": "^18",
+    "@types/react-dom": "^18",
+    "eslint": "^8",
+    "eslint-config-next": "14.2.4",
+    "postcss": "^8",
+    "style-dictionary": "^4.0.0-prerelease.37",
+    "tailwindcss": "^3.4.1",
+    "token-transformer": "^0.0.33",
+    "typescript": "^5"
+  }
+}

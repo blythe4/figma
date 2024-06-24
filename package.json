@@ -1,13 +1,14 @@
 {
   "name": "figma",
   "version": "0.1.0",
+  "type": "module",
   "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "token": "token-transformer token/token.json token/tokenBuild.json '#1 primitive/Light','#2 Semantic/Mode 1' '#1 primitive/Light' && node token/transformToken.js"
+    "token": "token-transformer token/tokens.json token/tokenBuild.json '#1 primitive/Light','#2 Semantic/Mode 1' '#1 primitive/Light' && node token/transformToken.js"
   },
   "dependencies": {
     "next": "14.2.4",

@@ -1,0 +1,126 @@
+{
+  "Primary": {
+    "20": {
+      "value": "#f3eff9",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "50": {
+      "value": "#eee6f8",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "400": {
+      "value": "#9348f1",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "500": {
+      "value": "#6e27c8",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    }
+  },
+  "Secondary": {
+    "20": {
+      "value": "#f4f4f7",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "50": {
+      "value": "#eae9ef",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "80": {
+      "value": "#e0deea",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "100": {
+      "value": "#cac8d8",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "200": {
+      "value": "#a8a5bd",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "300": {
+      "value": "#8783a2",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    }
+  },
+  "Neutral": {
+    "0": {
+      "value": "#ffffff",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "700": {
+      "value": "#5c5c5f",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "900": {
+      "value": "#1d1d1f",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    }
+  },
+  "opacity": {
+    "8": {
+      "value": "#00000014",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "12": {
+      "value": "#0000001f",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "70": {
+      "value": "#000000b3",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    }
+  },
+  "Tertiary": {
+    "300": {
+      "value": "#1fde8e",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "500": {
+      "value": "#e92957",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "800": {
+      "value": "#fb9f5d",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    }
+  }
+}

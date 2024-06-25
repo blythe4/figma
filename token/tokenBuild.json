@@ -111,13 +111,25 @@
       "description": ""
     },
     "500": {
-      "value": "#e92957",
+      "value": "#00ca5d",
       "type": "color",
       "parent": "#2 Semantic/Mode 1",
       "description": ""
     },
     "800": {
       "value": "#fb9f5d",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "900": {
+      "value": "#391b1b",
+      "type": "color",
+      "parent": "#2 Semantic/Mode 1",
+      "description": ""
+    },
+    "R500": {
+      "value": "#e92957",
       "type": "color",
       "parent": "#2 Semantic/Mode 1",
       "description": ""

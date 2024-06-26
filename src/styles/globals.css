@@ -28,6 +28,11 @@
   --colorTertiaryR500: #e92957;
   --fontFontTest1: SUIT Variable;
   --fontFontTest2: Bold;
+  --fontH1: 700 50px/50px 'SUIT Variable';
+  --fontH2: 700 40px/50px 'SUIT Variable';
+  --fontH3: 700 22px/28px 'SUIT Variable';
+  --fontBody: 400 16px/24px 'SUIT Variable';
+  --fontFooter: 400 14px/14px 'SUIT Variable';
   --gapFont2: SUIT Variable;
   --gapGap1: 0.25rem;
   --gapGap2: 0.5rem;

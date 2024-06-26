@@ -72,4 +72,7 @@
   --shadowsBlue28: 1.75rem;
   --shadowsBlue24: 1.5rem;
   --shadowsBlue36: 2.25rem;
+  --boxShadowS: 0 0 0.75rem 0 #0000001f;
+  --boxShadowM: 0 0 1.25rem 0 #00000033;
+  --boxShadowL: 0 0 1.75rem 0 #0000004d;
 }

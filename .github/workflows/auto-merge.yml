@@ -26,14 +26,3 @@ jobs:
       - name: Push Changes
         run: |
           git push origin develop
-
-      - name: Checkout Develop Branch
-        run: git checkout theme
-
-      - name: Merge Figma into Develop
-        run: |
-          git merge figma
-
-      - name: Push Changes
-        run: |
-          git push origin theme

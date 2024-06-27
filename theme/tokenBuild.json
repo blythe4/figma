@@ -507,5 +507,41 @@
       "value": "SUITE Variable",
       "type": "fontFamilies"
     }
+  },
+  "borderRadius": {
+    "sm": {
+      "value": "0.25rem",
+      "type": "borderRadius"
+    },
+    "md": {
+      "value": "0.5rem",
+      "type": "borderRadius"
+    },
+    "lg": {
+      "value": "0.75rem",
+      "type": "borderRadius"
+    }
+  },
+  "strokeWidth": {
+    "1": {
+      "value": "0.0625rem",
+      "type": "dimension"
+    },
+    "2": {
+      "value": "0.125rem",
+      "type": "dimension"
+    },
+    "3": {
+      "value": "0.1875rem",
+      "type": "dimension"
+    },
+    "4": {
+      "value": "0.25rem",
+      "type": "dimension"
+    },
+    "6": {
+      "value": "0.375rem",
+      "type": "dimension"
+    }
   }
 }

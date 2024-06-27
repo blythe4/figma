@@ -1,0 +1,28 @@
+name: Auto Merge Figma to Develop
+
+on:
+  push:
+    branches:
+      - figma
+
+jobs:
+  merge:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Figma Branch
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.ACTIONS_TOKEN }}
+          ref: figma
+
+      - name: Checkout Develop Branch
+        run: git checkout develop
+
+      - name: Merge Figma into Develop
+        run: |
+          git merge figma
+
+      - name: Push Changes
+        run: |
+          git push origin develop

@@ -33,5 +33,5 @@ jobs:
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update Tokens
-          branch: develop # 명시적으로 브랜치를 지정합니다.
+          branch: theme # 명시적으로 브랜치를 지정합니다.
           token: ${{ secrets.ACTIONS_TOKEN }}

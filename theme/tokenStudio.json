@@ -1,499 +1,4 @@
 {
-  "Color": {
-    "Primary": {
-      "20": {
-        "value": "#f3eff9",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#f3eff9",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorPrimary20",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Primary",
-          "20"
-        ]
-      },
-      "50": {
-        "value": "#eee6f8",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#eee6f8",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorPrimary50",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Primary",
-          "50"
-        ]
-      },
-      "400": {
-        "value": "#9348f1",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#9348f1",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorPrimary400",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Primary",
-          "400"
-        ]
-      },
-      "500": {
-        "value": "#6e27c8",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#6e27c8",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorPrimary500",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Primary",
-          "500"
-        ]
-      }
-    },
-    "Secondary": {
-      "20": {
-        "value": "#f4f4f7",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#f4f4f7",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorSecondary20",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Secondary",
-          "20"
-        ]
-      },
-      "50": {
-        "value": "#eae9ef",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#eae9ef",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorSecondary50",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Secondary",
-          "50"
-        ]
-      },
-      "80": {
-        "value": "#e0deea",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#e0deea",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorSecondary80",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Secondary",
-          "80"
-        ]
-      },
-      "100": {
-        "value": "#cac8d8",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#cac8d8",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorSecondary100",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Secondary",
-          "100"
-        ]
-      },
-      "200": {
-        "value": "#a8a5bd",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#a8a5bd",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorSecondary200",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Secondary",
-          "200"
-        ]
-      },
-      "300": {
-        "value": "#8783a2",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#8783a2",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorSecondary300",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Secondary",
-          "300"
-        ]
-      }
-    },
-    "Neutral": {
-      "0": {
-        "value": "#ffffff",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#ffffff",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorNeutral0",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Neutral",
-          "0"
-        ]
-      },
-      "700": {
-        "value": "#5c5c5f",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#5c5c5f",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorNeutral700",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Neutral",
-          "700"
-        ]
-      },
-      "900": {
-        "value": "#1d1d1f",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#1d1d1f",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorNeutral900",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Neutral",
-          "900"
-        ]
-      }
-    },
-    "opacity": {
-      "8": {
-        "value": "#00000014",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#00000014",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorOpacity8",
-        "attributes": {},
-        "path": [
-          "Color",
-          "opacity",
-          "8"
-        ]
-      },
-      "12": {
-        "value": "#0000001f",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#0000001f",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorOpacity12",
-        "attributes": {},
-        "path": [
-          "Color",
-          "opacity",
-          "12"
-        ]
-      },
-      "20": {
-        "value": "#00000033",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#00000033",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorOpacity20",
-        "attributes": {},
-        "path": [
-          "Color",
-          "opacity",
-          "20"
-        ]
-      },
-      "30": {
-        "value": "#0000004d",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#0000004d",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorOpacity30",
-        "attributes": {},
-        "path": [
-          "Color",
-          "opacity",
-          "30"
-        ]
-      },
-      "70": {
-        "value": "#000000b3",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#000000b3",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorOpacity70",
-        "attributes": {},
-        "path": [
-          "Color",
-          "opacity",
-          "70"
-        ]
-      }
-    },
-    "Tertiary": {
-      "300": {
-        "value": "#1fde8e",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#1fde8e",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorTertiary300",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Tertiary",
-          "300"
-        ]
-      },
-      "500": {
-        "value": "#00ca5d",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#00ca5d",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorTertiary500",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Tertiary",
-          "500"
-        ]
-      },
-      "800": {
-        "value": "#fb9f5d",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#fb9f5d",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorTertiary800",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Tertiary",
-          "800"
-        ]
-      },
-      "900": {
-        "value": "#391b1b",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#391b1b",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorTertiary900",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Tertiary",
-          "900"
-        ]
-      },
-      "R500": {
-        "value": "#e92957",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": "",
-        "filePath": "theme/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#e92957",
-          "type": "color",
-          "parent": "#2 Semantic/Mode 1",
-          "description": ""
-        },
-        "name": "colorTertiaryR500",
-        "attributes": {},
-        "path": [
-          "Color",
-          "Tertiary",
-          "R500"
-        ]
-      }
-    }
-  },
   "Font": {
     "Font-test1": {
       "value": "SUIT Variable",
@@ -533,109 +38,6 @@
       "path": [
         "Font",
         "Font-test2"
-      ]
-    },
-    "h1": {
-      "value": "700 50px/50px 'SUIT Variable'",
-      "type": "typography",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "fontFamily": "SUIT Variable",
-          "fontWeight": "Bold",
-          "lineHeight": "50px",
-          "fontSize": "50px"
-        },
-        "type": "typography"
-      },
-      "name": "fontH1",
-      "attributes": {},
-      "path": [
-        "Font",
-        "h1"
-      ]
-    },
-    "h2": {
-      "value": "700 40px/50px 'SUIT Variable'",
-      "type": "typography",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "fontFamily": "SUIT Variable",
-          "fontWeight": "Bold",
-          "lineHeight": "50px",
-          "fontSize": "40px"
-        },
-        "type": "typography"
-      },
-      "name": "fontH2",
-      "attributes": {},
-      "path": [
-        "Font",
-        "h2"
-      ]
-    },
-    "h3": {
-      "value": "700 22px/28px 'SUIT Variable'",
-      "type": "typography",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "fontFamily": "SUIT Variable",
-          "fontWeight": "Bold",
-          "lineHeight": "28px",
-          "fontSize": "22px"
-        },
-        "type": "typography"
-      },
-      "name": "fontH3",
-      "attributes": {},
-      "path": [
-        "Font",
-        "h3"
-      ]
-    },
-    "body": {
-      "value": "400 16px/24px 'SUIT Variable'",
-      "type": "typography",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "fontFamily": "SUIT Variable",
-          "lineHeight": "24px",
-          "fontSize": "16px"
-        },
-        "type": "typography"
-      },
-      "name": "fontBody",
-      "attributes": {},
-      "path": [
-        "Font",
-        "body"
-      ]
-    },
-    "\bfooter": {
-      "value": "400 14px/14px 'SUIT Variable'",
-      "type": "typography",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "fontFamily": "SUIT Variable",
-          "lineHeight": "14px",
-          "fontSize": "14px"
-        },
-        "type": "typography"
-      },
-      "name": "fontFooter",
-      "attributes": {},
-      "path": [
-        "Font",
-        "\bfooter"
       ]
     }
   },
@@ -1547,8 +949,503 @@
       ]
     }
   },
-  "boxShadow": {
-    "s": {
+  "Colors": {
+    "Primary": {
+      "20": {
+        "value": "#f3eff9",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#f3eff9",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsPrimary20",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Primary",
+          "20"
+        ]
+      },
+      "50": {
+        "value": "#eee6f8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#eee6f8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsPrimary50",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Primary",
+          "50"
+        ]
+      },
+      "400": {
+        "value": "#9348f1",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#9348f1",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsPrimary400",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Primary",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#6e27c8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#6e27c8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsPrimary500",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Primary",
+          "500"
+        ]
+      }
+    },
+    "Secondary": {
+      "20": {
+        "value": "#f4f4f7",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#f4f4f7",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsSecondary20",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Secondary",
+          "20"
+        ]
+      },
+      "50": {
+        "value": "#eae9ef",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#eae9ef",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsSecondary50",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Secondary",
+          "50"
+        ]
+      },
+      "80": {
+        "value": "#e0deea",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#e0deea",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsSecondary80",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Secondary",
+          "80"
+        ]
+      },
+      "100": {
+        "value": "#cac8d8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#cac8d8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsSecondary100",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Secondary",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#a8a5bd",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#a8a5bd",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsSecondary200",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Secondary",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#8783a2",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#8783a2",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsSecondary300",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Secondary",
+          "300"
+        ]
+      }
+    },
+    "Neutral": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsNeutral0",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "0"
+        ]
+      },
+      "700": {
+        "value": "#5c5c5f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#5c5c5f",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsNeutral700",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "700"
+        ]
+      },
+      "900": {
+        "value": "#1d1d1f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#1d1d1f",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsNeutral900",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "900"
+        ]
+      }
+    },
+    "opacity": {
+      "8": {
+        "value": "#00000014",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#00000014",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsOpacity8",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "8"
+        ]
+      },
+      "12": {
+        "value": "#0000001f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#0000001f",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsOpacity12",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "12"
+        ]
+      },
+      "20": {
+        "value": "#00000033",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#00000033",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsOpacity20",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "20"
+        ]
+      },
+      "30": {
+        "value": "#0000004d",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#0000004d",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsOpacity30",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "30"
+        ]
+      },
+      "70": {
+        "value": "#000000b3",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#000000b3",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsOpacity70",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "70"
+        ]
+      }
+    },
+    "Tertiary": {
+      "300": {
+        "value": "#1fde8e",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#1fde8e",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsTertiary300",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Tertiary",
+          "300"
+        ]
+      },
+      "500": {
+        "value": "#00ca5d",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#00ca5d",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsTertiary500",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Tertiary",
+          "500"
+        ]
+      },
+      "800": {
+        "value": "#fb9f5d",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#fb9f5d",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsTertiary800",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Tertiary",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#391b1b",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#391b1b",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsTertiary900",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Tertiary",
+          "900"
+        ]
+      },
+      "R500": {
+        "value": "#e92957",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": "",
+        "filePath": "theme/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#e92957",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "name": "colorsTertiaryR500",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Tertiary",
+          "R500"
+        ]
+      }
+    }
+  },
+  "dropShadow": {
+    "sm": {
       "value": "0 0 0.75rem 0 #0000001f",
       "type": "boxShadow",
       "filePath": "theme/tokenBuild.json",
@@ -1564,14 +1461,14 @@
         },
         "type": "boxShadow"
       },
-      "name": "boxShadowS",
+      "name": "dropShadowSm",
       "attributes": {},
       "path": [
-        "boxShadow",
-        "s"
+        "dropShadow",
+        "sm"
       ]
     },
-    "m": {
+    "md": {
       "value": "0 0 1.25rem 0 #00000033",
       "type": "boxShadow",
       "filePath": "theme/tokenBuild.json",
@@ -1587,14 +1484,14 @@
         },
         "type": "boxShadow"
       },
-      "name": "boxShadowM",
+      "name": "dropShadowMd",
       "attributes": {},
       "path": [
-        "boxShadow",
-        "m"
+        "dropShadow",
+        "md"
       ]
     },
-    "l": {
+    "lg": {
       "value": "0 0 1.75rem 0 #0000004d",
       "type": "boxShadow",
       "filePath": "theme/tokenBuild.json",
@@ -1610,11 +1507,82 @@
         },
         "type": "boxShadow"
       },
-      "name": "boxShadowL",
+      "name": "dropShadowLg",
       "attributes": {},
       "path": [
-        "boxShadow",
-        "l"
+        "dropShadow",
+        "lg"
+      ]
+    }
+  },
+  "shadow": {
+    "sm": {
+      "value": "inset 0 0 0.75rem 0 #0000001f",
+      "type": "boxShadow",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "x": 0,
+          "y": 0,
+          "blur": "0.75rem",
+          "spread": 0,
+          "color": "#0000001f",
+          "type": "innerShadow"
+        },
+        "type": "boxShadow"
+      },
+      "name": "shadowSm",
+      "attributes": {},
+      "path": [
+        "shadow",
+        "sm"
+      ]
+    },
+    "md": {
+      "value": "inset 0 0 1.25rem 0 #00000033",
+      "type": "boxShadow",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "x": 0,
+          "y": 0,
+          "blur": "1.25rem",
+          "spread": 0,
+          "color": "#00000033",
+          "type": "innerShadow"
+        },
+        "type": "boxShadow"
+      },
+      "name": "shadowMd",
+      "attributes": {},
+      "path": [
+        "shadow",
+        "md"
+      ]
+    },
+    "lg": {
+      "value": "inset 0 0 1.75rem 0 #0000004d",
+      "type": "boxShadow",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "x": 0,
+          "y": 0,
+          "blur": "1.75rem",
+          "spread": 0,
+          "color": "#0000004d",
+          "type": "innerShadow"
+        },
+        "type": "boxShadow"
+      },
+      "name": "shadowLg",
+      "attributes": {},
+      "path": [
+        "shadow",
+        "lg"
       ]
     }
   }

@@ -1613,8 +1613,8 @@
       ]
     }
   },
-  "SUITE": {
-    "SUITE Variable": {
+  "fontFamily": {
+    "display": {
       "value": "'SUITE Variable'",
       "type": "fontFamilies",
       "filePath": "theme/tokenBuild.json",
@@ -1623,11 +1623,11 @@
         "value": "SUITE Variable",
         "type": "fontFamilies"
       },
-      "name": "suiteSuiteVariable",
+      "name": "fontFamilyDisplay",
       "attributes": {},
       "path": [
-        "SUITE",
-        "SUITE Variable"
+        "fontFamily",
+        "display"
       ]
     }
   }

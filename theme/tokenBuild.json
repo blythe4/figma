@@ -502,8 +502,8 @@
       "type": "dimension"
     }
   },
-  "SUITE": {
-    "SUITE Variable": {
+  "fontFamily": {
+    "display": {
       "value": "SUITE Variable",
       "type": "fontFamilies"
     }

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Thu, 27 Jun 2024 02:50:17 GMT
+ * Generated on Thu, 27 Jun 2024 03:12:33 GMT
  */
 
 :root {
@@ -73,10 +73,14 @@
   --colorsTertiary800: #fb9f5d;
   --colorsTertiary900: #391b1b;
   --colorsTertiaryR500: #e92957;
-  --dropShadowSm: 0 0 0.75rem 0 #0000001f;
-  --dropShadowMd: 0 0 1.25rem 0 #00000033;
-  --dropShadowLg: 0 0 1.75rem 0 #0000004d;
   --shadowSm: inset 0 0 0.75rem 0 #0000001f;
   --shadowMd: inset 0 0 1.25rem 0 #00000033;
   --shadowLg: inset 0 0 1.75rem 0 #0000004d;
+  --screensSm: 640px;
+  --screensMd: 720px;
+  --screensLg: 1024px;
+  --screensXl: 1280px;
+  --screens2xl: 1440px;
+  --screens3xl: 1920px;
+  --suiteSuiteVariable: 'SUITE Variable';
 }

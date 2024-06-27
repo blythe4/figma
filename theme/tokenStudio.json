@@ -1444,77 +1444,6 @@
       }
     }
   },
-  "dropShadow": {
-    "sm": {
-      "value": "0 0 0.75rem 0 #0000001f",
-      "type": "boxShadow",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "x": 0,
-          "y": 0,
-          "blur": "0.75rem",
-          "spread": 0,
-          "color": "#0000001f",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "name": "dropShadowSm",
-      "attributes": {},
-      "path": [
-        "dropShadow",
-        "sm"
-      ]
-    },
-    "md": {
-      "value": "0 0 1.25rem 0 #00000033",
-      "type": "boxShadow",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "x": 0,
-          "y": 0,
-          "blur": "1.25rem",
-          "spread": 0,
-          "color": "#00000033",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "name": "dropShadowMd",
-      "attributes": {},
-      "path": [
-        "dropShadow",
-        "md"
-      ]
-    },
-    "lg": {
-      "value": "0 0 1.75rem 0 #0000004d",
-      "type": "boxShadow",
-      "filePath": "theme/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": {
-          "x": 0,
-          "y": 0,
-          "blur": "1.75rem",
-          "spread": 0,
-          "color": "#0000004d",
-          "type": "dropShadow"
-        },
-        "type": "boxShadow"
-      },
-      "name": "dropShadowLg",
-      "attributes": {},
-      "path": [
-        "dropShadow",
-        "lg"
-      ]
-    }
-  },
   "shadow": {
     "sm": {
       "value": "inset 0 0 0.75rem 0 #0000001f",
@@ -1583,6 +1512,122 @@
       "path": [
         "shadow",
         "lg"
+      ]
+    }
+  },
+  "screens": {
+    "sm": {
+      "value": "640px",
+      "type": "dimension",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "640px",
+        "type": "dimension"
+      },
+      "name": "screensSm",
+      "attributes": {},
+      "path": [
+        "screens",
+        "sm"
+      ]
+    },
+    "md": {
+      "value": "720px",
+      "type": "dimension",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "720px",
+        "type": "dimension"
+      },
+      "name": "screensMd",
+      "attributes": {},
+      "path": [
+        "screens",
+        "md"
+      ]
+    },
+    "lg": {
+      "value": "1024px",
+      "type": "dimension",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1024px",
+        "type": "dimension"
+      },
+      "name": "screensLg",
+      "attributes": {},
+      "path": [
+        "screens",
+        "lg"
+      ]
+    },
+    "xl": {
+      "value": "1280px",
+      "type": "dimension",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1280px",
+        "type": "dimension"
+      },
+      "name": "screensXl",
+      "attributes": {},
+      "path": [
+        "screens",
+        "xl"
+      ]
+    },
+    "2xl": {
+      "value": "1440px",
+      "type": "dimension",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1440px",
+        "type": "dimension"
+      },
+      "name": "screens2xl",
+      "attributes": {},
+      "path": [
+        "screens",
+        "2xl"
+      ]
+    },
+    "3xl": {
+      "value": "1920px",
+      "type": "dimension",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1920px",
+        "type": "dimension"
+      },
+      "name": "screens3xl",
+      "attributes": {},
+      "path": [
+        "screens",
+        "3xl"
+      ]
+    }
+  },
+  "SUITE": {
+    "SUITE Variable": {
+      "value": "'SUITE Variable'",
+      "type": "fontFamilies",
+      "filePath": "theme/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "SUITE Variable",
+        "type": "fontFamilies"
+      },
+      "name": "suiteSuiteVariable",
+      "attributes": {},
+      "path": [
+        "SUITE",
+        "SUITE Variable"
       ]
     }
   }

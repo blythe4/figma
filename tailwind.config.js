@@ -102,15 +102,21 @@ module.exports = {
       "r500": "#e92957"
         }
       },
-      dropShadow: {
-        sm: "0 0 0.75rem 0 #0000001f",
-        md: "0 0 1.25rem 0 #00000033",
-        lg: "0 0 1.75rem 0 #0000004d"
-      },
       shadow: {
         sm: "inset 0 0 0.75rem 0 #0000001f",
         md: "inset 0 0 1.25rem 0 #00000033",
         lg: "inset 0 0 1.75rem 0 #0000004d"
+      },
+      screens: {
+        sm: "640px",
+        md: "720px",
+        lg: "1024px",
+        xl: "1280px",
+    "2xl": "1440px",
+    "3xl": "1920px"
+      },
+      suite: {
+        suiteVariable: "'SUITE Variable'"
       }
     },
   },

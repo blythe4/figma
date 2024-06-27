@@ -20,7 +20,14 @@ import { makeSdTailwindConfig } from "sd-tailwindcss-transformer";
 
 // StyleDictionary.buildAllPlatforms();
 
-const types = ["shadow", "screens", "fontFamily", "Colors", "Spacing", "Gap"];
+const types = [
+  "shadow",
+  "screens",
+  "fontFamily",
+  "Colors",
+  "borderRadius",
+  "strokeWidth",
+];
 
 types.map((type) => {
   const StyleDictionary = StyleDictionaryModule.extend(

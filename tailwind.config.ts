@@ -3,8 +3,8 @@ import type { Config } from "tailwindcss";
 import colors from "./token/colors.tailwind";
 import fontFamily from "./token/fontFamily.tailwind";
 import shadow from "./token/shadow.tailwind";
-import gap from "./token/gap.tailwind";
-import spacing from "./token/spacing.tailwind";
+import strokeWidth from "./token/strokeWidth.tailwind";
+import borderRadius from "./token/borderRadius.tailwind";
 import screens from "./token/screens.tailwind";
 
 const config: Config = {
@@ -23,9 +23,9 @@ const config: Config = {
       colors,
       fontFamily,
       shadow,
-      gap,
       screens,
-      spacing,
+      borderRadius,
+      strokeWidth,
     },
   },
   plugins: [],

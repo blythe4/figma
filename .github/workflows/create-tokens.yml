@@ -1,4 +1,4 @@
-name: CI
+name: CI Figma Token Transformer css
 on:
   push:
     branches:

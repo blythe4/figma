@@ -1,5 +1,12 @@
 import type { Config } from "tailwindcss";
 
+import colors from "./token/colors.tailwind";
+import fontFamily from "./token/fontFamily.tailwind";
+import shadow from "./token/shadow.tailwind";
+import gap from "./token/gap.tailwind";
+import spacing from "./token/spacing.tailwind";
+import screens from "./token/screens.tailwind";
+
 const config: Config = {
   content: [
     "./src/pages/**/*.{js,ts,jsx,tsx,mdx}",
@@ -13,6 +20,12 @@ const config: Config = {
         "gradient-conic":
           "conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))",
       },
+      colors,
+      fontFamily,
+      shadow,
+      gap,
+      screens,
+      spacing,
     },
   },
   plugins: [],

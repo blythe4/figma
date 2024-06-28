@@ -79,14 +79,7 @@ const sd = StyleDictionaryModule.extend({
 
 sd.buildAllPlatforms();
 
-const types = [
-  "shadow",
-  "screens",
-  "fontFamily",
-  "Colors",
-  "borderRadius",
-  "strokeWidth",
-];
+const types = ["shadow", "screens", "fontFamily", "Colors", "borderRadius"];
 
 types.map((type) => {
   const StyleDictionary = StyleDictionaryModule.extend(

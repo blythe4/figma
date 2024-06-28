@@ -1,25 +1,5 @@
 {
-  "Font": {
-    "Font-test1": {
-      "value": "SUIT Variable",
-      "type": "text",
-      "parent": "#2 Semantic/Mode 1",
-      "description": ""
-    },
-    "Font-test2": {
-      "value": "Bold",
-      "type": "text",
-      "parent": "#2 Semantic/Mode 1",
-      "description": ""
-    }
-  },
   "Gap": {
-    "Font 2": {
-      "value": "SUIT Variable",
-      "type": "text",
-      "parent": "#2 Semantic/Mode 1",
-      "description": ""
-    },
     "Gap-1": {
       "value": "0.25rem",
       "type": "dimension",
@@ -182,6 +162,98 @@
         "type": "dimension",
         "parent": "#2 Semantic/Mode 1",
         "description": ""
+      },
+      "color": {
+        "line-default": {
+          "value": "#1d1d1f",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "line-sub": {
+          "value": "#a8a5bd",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "line-info": {
+          "value": "#cac8d8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "bg-1": {
+          "value": "#ffffff",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "bg-2": {
+          "value": "#6e27c8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "line-default2": {
+          "value": "#6e27c8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "bg-3": {
+          "value": "#cac8d8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "line-right": {
+          "value": "#e0deea",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "line-red": {
+          "value": "#e92957",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        }
+      },
+      "icon-XS": {
+        "value": "0.0625rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "icon-S": {
+        "value": "0.07500000298023224rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "icon-M": {
+        "value": "0.08749999850988388rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "icon-L": {
+        "value": "0.10000000149011612rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "icon-XL": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "icon-XXL": {
+        "value": "0.1875rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
       }
     },
     "Stroke-1": {
@@ -231,6 +303,52 @@
       "type": "dimension",
       "parent": "#2 Semantic/Mode 1",
       "description": ""
+    },
+    "border": {
+      "color": {
+        "default": {
+          "value": "#e0deea",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        },
+        "strong": {
+          "value": "#cac8d8",
+          "type": "color",
+          "parent": "#2 Semantic/Mode 1",
+          "description": ""
+        }
+      },
+      "border-1": {
+        "value": "0.0625rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "border-2": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "border-3": {
+        "value": "0.1875rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "border-4": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "border-6": {
+        "value": "0.375rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
     }
   },
   "Shadows": {
@@ -289,73 +407,29 @@
       "type": "dimension",
       "parent": "#2 Semantic/Mode 1",
       "description": ""
+    },
+    "color": {
+      "S": {
+        "value": "#0000001f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "M": {
+        "value": "#00000033",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "L": {
+        "value": "#0000004d",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
     }
   },
   "Colors": {
-    "Primary": {
-      "20": {
-        "value": "#f3eff9",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "50": {
-        "value": "#eee6f8",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "400": {
-        "value": "#9348f1",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "500": {
-        "value": "#6e27c8",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      }
-    },
-    "Secondary": {
-      "20": {
-        "value": "#f4f4f7",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "50": {
-        "value": "#eae9ef",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "80": {
-        "value": "#e0deea",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "100": {
-        "value": "#cac8d8",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "200": {
-        "value": "#a8a5bd",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "300": {
-        "value": "#8783a2",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      }
-    },
     "Neutral": {
       "0": {
         "value": "#ffffff",
@@ -408,34 +482,364 @@
         "description": ""
       }
     },
+    "Primary": {
+      "Purple-500": {
+        "value": "#6e27c8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Purple-400": {
+        "value": "#9348f1",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Purple-50": {
+        "value": "#eee6f8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Purple-20": {
+        "value": "#f3eff9",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    },
+    "Secondary": {
+      "\bGray-300": {
+        "value": "#8783a2",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Gray-200": {
+        "value": "#a8a5bd",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Gray-100": {
+        "value": "#cac8d8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Gray-80": {
+        "value": "#e0deea",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Gray-50": {
+        "value": "#eae9ef",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Gray-20": {
+        "value": "#f4f4f7",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    },
     "Tertiary": {
-      "300": {
-        "value": "#1fde8e",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "500": {
-        "value": "#00ca5d",
-        "type": "color",
-        "parent": "#2 Semantic/Mode 1",
-        "description": ""
-      },
-      "800": {
+      "Orange-800": {
         "value": "#fb9f5d",
         "type": "color",
         "parent": "#2 Semantic/Mode 1",
         "description": ""
       },
-      "900": {
-        "value": "#391b1b",
+      "Green-300": {
+        "value": "#1fde8e",
         "type": "color",
         "parent": "#2 Semantic/Mode 1",
         "description": ""
       },
-      "R500": {
+      "Red-500": {
         "value": "#e92957",
         "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Green-500": {
+        "value": "#00ca5d",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "\bBrown-900": {
+        "value": "#391b1b",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    },
+    "sys-background": {
+      "20": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "50": {
+        "value": "#5c5c5f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Dimmed": {
+        "value": "#1d1d1f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "White": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    }
+  },
+  "Font-family": {
+    "Color": {
+      "Status": {
+        "value": "#e92957",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Error": {
+        "value": "#e92957",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "True": {
+        "value": "#6e27c8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Exception-title": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Exception-title 2": {
+        "value": "#ffffff",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "text-info": {
+        "value": "#8783a2",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "text-sub": {
+        "value": "#5c5c5f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "text-default": {
+        "value": "#1d1d1f",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "text-emphasis": {
+        "value": "#6e27c8",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "text-info2": {
+        "value": "#a8a5bd",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "text-naver": {
+        "value": "#00ca5d",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "text-kakao": {
+        "value": "#391b1b",
+        "type": "color",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    },
+    "Type": {
+      "Suit": {
+        "value": "SUIT Variable",
+        "type": "text",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Mont": {
+        "value": "Montserrat",
+        "type": "text",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    },
+    "Weight": {
+      "Regular": {
+        "value": "25rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Medium": {
+        "value": "31.25rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Semibold": {
+        "value": "37.5rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "Bold": {
+        "value": "43.75rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    },
+    "line-height": {
+      "height-52": {
+        "value": "3.25rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-44": {
+        "value": "2.75rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-34": {
+        "value": "2.125rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-24": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-32": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-20": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-28": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-16": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-14": {
+        "value": "0.875rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-12": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "height-18": {
+        "value": "1.125rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      }
+    },
+    "Size": {
+      "size-40": {
+        "value": "2.5rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-32": {
+        "value": "2rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-28": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-24": {
+        "value": "1.5rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-20": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-18": {
+        "value": "1.125rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-16": {
+        "value": "1rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-14": {
+        "value": "0.875rem",
+        "type": "dimension",
+        "parent": "#2 Semantic/Mode 1",
+        "description": ""
+      },
+      "size-12": {
+        "value": "0.75rem",
+        "type": "dimension",
         "parent": "#2 Semantic/Mode 1",
         "description": ""
       }
@@ -505,6 +909,10 @@
   "fontFamily": {
     "display": {
       "value": "SUITE Variable",
+      "type": "fontFamilies"
+    },
+    "montserrat": {
+      "value": "Montserrat",
       "type": "fontFamilies"
     }
   },

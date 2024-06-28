@@ -10,19 +10,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Figma Branch
+      - name: Checkout Develop Branch
         uses: actions/checkout@v2
         with:
           token: ${{ secrets.ACTIONS_TOKEN }}
-          ref: figma
-
-      - name: Checkout Develop Branch
-        run: git checkout develop
+          ref: develop
 
       - name: Merge Figma into Develop
         run: |
           git merge figma
 
       - name: Push Changes
-        run: |
-          git push origin develop
+        uses: ad-m/github-push-action@master
+        with:
+          branch: develop
+          github_token: ${{ secrets.ACTIONS_TOKEN }}

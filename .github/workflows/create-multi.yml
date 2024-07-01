@@ -1,4 +1,4 @@
-name: Final - CI Figma Token Transformer css & tailwindCSS
+name: Final -  CI Figma Token Transformer css & tailwindCSS
 on:
   push:
     branches:
@@ -26,7 +26,7 @@ jobs:
       # Convert tokens according to Style Dictionary config
       #- run: node token/transformToken.js
       - name: Run token script
-        run: node multiTransform.js
+        run: npm run tailwind
 
       - name: Commit changes
         # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.

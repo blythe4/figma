@@ -1,4 +1,4 @@
-name: [Final] CI Figma Token Transformer css & tailwindCSS
+name: Final - CI Figma Token Transformer css & tailwindCSS
 on:
   push:
     branches:

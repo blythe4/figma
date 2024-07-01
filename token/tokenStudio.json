@@ -9,7 +9,7 @@
         "value": "0.25rem",
         "type": "dimension"
       },
-      "name": "gapGap1",
+      "name": "gap-gap-1",
       "attributes": {},
       "path": [
         "Gap",
@@ -25,7 +25,7 @@
         "value": "0.5rem",
         "type": "dimension"
       },
-      "name": "gapGap2",
+      "name": "gap-gap-2",
       "attributes": {},
       "path": [
         "Gap",
@@ -41,7 +41,7 @@
         "value": "0.75rem",
         "type": "dimension"
       },
-      "name": "gapGap3",
+      "name": "gap-gap-3",
       "attributes": {},
       "path": [
         "Gap",
@@ -57,7 +57,7 @@
         "value": "1rem",
         "type": "dimension"
       },
-      "name": "gapGap4",
+      "name": "gap-gap-4",
       "attributes": {},
       "path": [
         "Gap",
@@ -73,7 +73,7 @@
         "value": "1.25rem",
         "type": "dimension"
       },
-      "name": "gapGap5",
+      "name": "gap-gap-5",
       "attributes": {},
       "path": [
         "Gap",
@@ -89,7 +89,7 @@
         "value": "1.5rem",
         "type": "dimension"
       },
-      "name": "gapGap6",
+      "name": "gap-gap-6",
       "attributes": {},
       "path": [
         "Gap",
@@ -105,7 +105,7 @@
         "value": "1.75rem",
         "type": "dimension"
       },
-      "name": "gapGap7",
+      "name": "gap-gap-7",
       "attributes": {},
       "path": [
         "Gap",
@@ -121,7 +121,7 @@
         "value": "2rem",
         "type": "dimension"
       },
-      "name": "gapGap8",
+      "name": "gap-gap-8",
       "attributes": {},
       "path": [
         "Gap",
@@ -137,7 +137,7 @@
         "value": "2.25rem",
         "type": "dimension"
       },
-      "name": "gapGap9",
+      "name": "gap-gap-9",
       "attributes": {},
       "path": [
         "Gap",
@@ -153,7 +153,7 @@
         "value": "2.5rem",
         "type": "dimension"
       },
-      "name": "gapGap10",
+      "name": "gap-gap-10",
       "attributes": {},
       "path": [
         "Gap",
@@ -169,7 +169,7 @@
         "value": "3.75rem",
         "type": "dimension"
       },
-      "name": "gapGap11",
+      "name": "gap-gap-11",
       "attributes": {},
       "path": [
         "Gap",
@@ -185,7 +185,7 @@
         "value": "5rem",
         "type": "dimension"
       },
-      "name": "gapGap12",
+      "name": "gap-gap-12",
       "attributes": {},
       "path": [
         "Gap",
@@ -203,7 +203,7 @@
         "value": "0.75rem",
         "type": "dimension"
       },
-      "name": "radiusRadiusL",
+      "name": "radius-radius-l",
       "attributes": {},
       "path": [
         "Radius",
@@ -219,7 +219,7 @@
         "value": "0.5rem",
         "type": "dimension"
       },
-      "name": "radiusRadiusM",
+      "name": "radius-radius-m",
       "attributes": {},
       "path": [
         "Radius",
@@ -235,7 +235,7 @@
         "value": "0.25rem",
         "type": "dimension"
       },
-      "name": "radiusRadiusS",
+      "name": "radius-radius-s",
       "attributes": {},
       "path": [
         "Radius",
@@ -254,7 +254,7 @@
           "value": "0.0625rem",
           "type": "dimension"
         },
-        "name": "strokeLineLine1",
+        "name": "stroke-line-line-1",
         "attributes": {},
         "path": [
           "Stroke",
@@ -271,7 +271,7 @@
           "value": "0.125rem",
           "type": "dimension"
         },
-        "name": "strokeLineLine2",
+        "name": "stroke-line-line-2",
         "attributes": {},
         "path": [
           "Stroke",
@@ -288,7 +288,7 @@
           "value": "0.1875rem",
           "type": "dimension"
         },
-        "name": "strokeLineLine3",
+        "name": "stroke-line-line-3",
         "attributes": {},
         "path": [
           "Stroke",
@@ -305,7 +305,7 @@
           "value": "0.25rem",
           "type": "dimension"
         },
-        "name": "strokeLineLine4",
+        "name": "stroke-line-line-4",
         "attributes": {},
         "path": [
           "Stroke",
@@ -322,7 +322,7 @@
           "value": "0.375rem",
           "type": "dimension"
         },
-        "name": "strokeLineLine6",
+        "name": "stroke-line-line-6",
         "attributes": {},
         "path": [
           "Stroke",
@@ -341,7 +341,7 @@
           "value": "0.0625rem",
           "type": "dimension"
         },
-        "name": "strokeIconXs",
+        "name": "stroke-icon-xs",
         "attributes": {},
         "path": [
           "Stroke",
@@ -358,7 +358,7 @@
           "value": "0.07500000298023224rem",
           "type": "dimension"
         },
-        "name": "strokeIconS",
+        "name": "stroke-icon-s",
         "attributes": {},
         "path": [
           "Stroke",
@@ -375,7 +375,7 @@
           "value": "0.08749999850988388rem",
           "type": "dimension"
         },
-        "name": "strokeIconM",
+        "name": "stroke-icon-m",
         "attributes": {},
         "path": [
           "Stroke",
@@ -392,7 +392,7 @@
           "value": "0.10000000149011612rem",
           "type": "dimension"
         },
-        "name": "strokeIconL",
+        "name": "stroke-icon-l",
         "attributes": {},
         "path": [
           "Stroke",
@@ -409,7 +409,7 @@
           "value": "0.125rem",
           "type": "dimension"
         },
-        "name": "strokeIconXl",
+        "name": "stroke-icon-xl",
         "attributes": {},
         "path": [
           "Stroke",
@@ -426,7 +426,7 @@
           "value": "0.1875rem",
           "type": "dimension"
         },
-        "name": "strokeIconXxl",
+        "name": "stroke-icon-xxl",
         "attributes": {},
         "path": [
           "Stroke",
@@ -444,7 +444,7 @@
             "value": "#1d1d1f",
             "type": "color"
           },
-          "name": "strokeIconColorLineDefault",
+          "name": "stroke-icon-color-line-default",
           "attributes": {},
           "path": [
             "Stroke",
@@ -462,7 +462,7 @@
             "value": "#a8a5bd",
             "type": "color"
           },
-          "name": "strokeIconColorLineSub",
+          "name": "stroke-icon-color-line-sub",
           "attributes": {},
           "path": [
             "Stroke",
@@ -480,7 +480,7 @@
             "value": "#cac8d8",
             "type": "color"
           },
-          "name": "strokeIconColorLineInfo",
+          "name": "stroke-icon-color-line-info",
           "attributes": {},
           "path": [
             "Stroke",
@@ -498,7 +498,7 @@
             "value": "#ffffff",
             "type": "color"
           },
-          "name": "strokeIconColorBg1",
+          "name": "stroke-icon-color-bg-1",
           "attributes": {},
           "path": [
             "Stroke",
@@ -516,7 +516,7 @@
             "value": "#6e27c8",
             "type": "color"
           },
-          "name": "strokeIconColorBg2",
+          "name": "stroke-icon-color-bg-2",
           "attributes": {},
           "path": [
             "Stroke",
@@ -534,7 +534,7 @@
             "value": "#6e27c8",
             "type": "color"
           },
-          "name": "strokeIconColorLineDefault2",
+          "name": "stroke-icon-color-line-default2",
           "attributes": {},
           "path": [
             "Stroke",
@@ -552,7 +552,7 @@
             "value": "#cac8d8",
             "type": "color"
           },
-          "name": "strokeIconColorBg3",
+          "name": "stroke-icon-color-bg-3",
           "attributes": {},
           "path": [
             "Stroke",
@@ -570,7 +570,7 @@
             "value": "#e0deea",
             "type": "color"
           },
-          "name": "strokeIconColorLineRight",
+          "name": "stroke-icon-color-line-right",
           "attributes": {},
           "path": [
             "Stroke",
@@ -588,7 +588,7 @@
             "value": "#e92957",
             "type": "color"
           },
-          "name": "strokeIconColorLineRed",
+          "name": "stroke-icon-color-line-red",
           "attributes": {},
           "path": [
             "Stroke",
@@ -607,7 +607,7 @@
           "value": "0.0625rem",
           "type": "dimension"
         },
-        "name": "strokeIconIconXs",
+        "name": "stroke-icon-icon-xs",
         "attributes": {},
         "path": [
           "Stroke",
@@ -624,7 +624,7 @@
           "value": "0.07500000298023224rem",
           "type": "dimension"
         },
-        "name": "strokeIconIconS",
+        "name": "stroke-icon-icon-s",
         "attributes": {},
         "path": [
           "Stroke",
@@ -641,7 +641,7 @@
           "value": "0.08749999850988388rem",
           "type": "dimension"
         },
-        "name": "strokeIconIconM",
+        "name": "stroke-icon-icon-m",
         "attributes": {},
         "path": [
           "Stroke",
@@ -658,7 +658,7 @@
           "value": "0.10000000149011612rem",
           "type": "dimension"
         },
-        "name": "strokeIconIconL",
+        "name": "stroke-icon-icon-l",
         "attributes": {},
         "path": [
           "Stroke",
@@ -675,7 +675,7 @@
           "value": "0.125rem",
           "type": "dimension"
         },
-        "name": "strokeIconIconXl",
+        "name": "stroke-icon-icon-xl",
         "attributes": {},
         "path": [
           "Stroke",
@@ -692,7 +692,7 @@
           "value": "0.1875rem",
           "type": "dimension"
         },
-        "name": "strokeIconIconXxl",
+        "name": "stroke-icon-icon-xxl",
         "attributes": {},
         "path": [
           "Stroke",
@@ -710,7 +710,7 @@
         "value": "0.0625rem",
         "type": "dimension"
       },
-      "name": "strokeStroke1",
+      "name": "stroke-stroke-1",
       "attributes": {},
       "path": [
         "Stroke",
@@ -726,7 +726,7 @@
         "value": "0.07500000298023224rem",
         "type": "dimension"
       },
-      "name": "strokeStroke12",
+      "name": "stroke-stroke-1-2",
       "attributes": {},
       "path": [
         "Stroke",
@@ -742,7 +742,7 @@
         "value": "0.08749999850988388rem",
         "type": "dimension"
       },
-      "name": "strokeStroke14",
+      "name": "stroke-stroke-1-4",
       "attributes": {},
       "path": [
         "Stroke",
@@ -758,7 +758,7 @@
         "value": "0.10000000149011612rem",
         "type": "dimension"
       },
-      "name": "strokeStroke16",
+      "name": "stroke-stroke-1-6",
       "attributes": {},
       "path": [
         "Stroke",
@@ -774,7 +774,7 @@
         "value": "0.125rem",
         "type": "dimension"
       },
-      "name": "strokeStroke2",
+      "name": "stroke-stroke-2",
       "attributes": {},
       "path": [
         "Stroke",
@@ -790,7 +790,7 @@
         "value": "0.1875rem",
         "type": "dimension"
       },
-      "name": "strokeStroke3",
+      "name": "stroke-stroke-3",
       "attributes": {},
       "path": [
         "Stroke",
@@ -806,7 +806,7 @@
         "value": "0.25rem",
         "type": "dimension"
       },
-      "name": "strokeStroke4",
+      "name": "stroke-stroke-4",
       "attributes": {},
       "path": [
         "Stroke",
@@ -822,7 +822,7 @@
         "value": "0.375rem",
         "type": "dimension"
       },
-      "name": "strokeStroke6",
+      "name": "stroke-stroke-6",
       "attributes": {},
       "path": [
         "Stroke",
@@ -840,7 +840,7 @@
             "value": "#e0deea",
             "type": "color"
           },
-          "name": "strokeBorderColorDefault",
+          "name": "stroke-border-color-default",
           "attributes": {},
           "path": [
             "Stroke",
@@ -858,7 +858,7 @@
             "value": "#cac8d8",
             "type": "color"
           },
-          "name": "strokeBorderColorStrong",
+          "name": "stroke-border-color-strong",
           "attributes": {},
           "path": [
             "Stroke",
@@ -877,7 +877,7 @@
           "value": "0.0625rem",
           "type": "dimension"
         },
-        "name": "strokeBorderBorder1",
+        "name": "stroke-border-border-1",
         "attributes": {},
         "path": [
           "Stroke",
@@ -894,7 +894,7 @@
           "value": "0.125rem",
           "type": "dimension"
         },
-        "name": "strokeBorderBorder2",
+        "name": "stroke-border-border-2",
         "attributes": {},
         "path": [
           "Stroke",
@@ -911,7 +911,7 @@
           "value": "0.1875rem",
           "type": "dimension"
         },
-        "name": "strokeBorderBorder3",
+        "name": "stroke-border-border-3",
         "attributes": {},
         "path": [
           "Stroke",
@@ -928,7 +928,7 @@
           "value": "0.25rem",
           "type": "dimension"
         },
-        "name": "strokeBorderBorder4",
+        "name": "stroke-border-border-4",
         "attributes": {},
         "path": [
           "Stroke",
@@ -945,7 +945,7 @@
           "value": "0.375rem",
           "type": "dimension"
         },
-        "name": "strokeBorderBorder6",
+        "name": "stroke-border-border-6",
         "attributes": {},
         "path": [
           "Stroke",
@@ -965,7 +965,7 @@
         "value": "0.75rem",
         "type": "dimension"
       },
-      "name": "shadowsBlue12",
+      "name": "shadows-blue-12",
       "attributes": {},
       "path": [
         "Shadows",
@@ -981,7 +981,7 @@
         "value": "1rem",
         "type": "dimension"
       },
-      "name": "shadowsBlue16",
+      "name": "shadows-blue-16",
       "attributes": {},
       "path": [
         "Shadows",
@@ -997,7 +997,7 @@
         "value": "1.25rem",
         "type": "dimension"
       },
-      "name": "shadowsBlue20",
+      "name": "shadows-blue-20",
       "attributes": {},
       "path": [
         "Shadows",
@@ -1014,7 +1014,7 @@
           "value": "0.75rem",
           "type": "dimension"
         },
-        "name": "shadowsBlueS",
+        "name": "shadows-blue-s",
         "attributes": {},
         "path": [
           "Shadows",
@@ -1031,7 +1031,7 @@
           "value": "1.25rem",
           "type": "dimension"
         },
-        "name": "shadowsBlueM",
+        "name": "shadows-blue-m",
         "attributes": {},
         "path": [
           "Shadows",
@@ -1048,7 +1048,7 @@
           "value": "1.75rem",
           "type": "dimension"
         },
-        "name": "shadowsBlueL",
+        "name": "shadows-blue-l",
         "attributes": {},
         "path": [
           "Shadows",
@@ -1066,7 +1066,7 @@
         "value": "1.75rem",
         "type": "dimension"
       },
-      "name": "shadowsBlue28",
+      "name": "shadows-blue-28",
       "attributes": {},
       "path": [
         "Shadows",
@@ -1082,7 +1082,7 @@
         "value": "1.5rem",
         "type": "dimension"
       },
-      "name": "shadowsBlue24",
+      "name": "shadows-blue-24",
       "attributes": {},
       "path": [
         "Shadows",
@@ -1098,7 +1098,7 @@
         "value": "2.25rem",
         "type": "dimension"
       },
-      "name": "shadowsBlue36",
+      "name": "shadows-blue-36",
       "attributes": {},
       "path": [
         "Shadows",
@@ -1115,7 +1115,7 @@
           "value": "#0000001f",
           "type": "color"
         },
-        "name": "shadowsColorS",
+        "name": "shadows-color-s",
         "attributes": {},
         "path": [
           "Shadows",
@@ -1132,7 +1132,7 @@
           "value": "#00000033",
           "type": "color"
         },
-        "name": "shadowsColorM",
+        "name": "shadows-color-m",
         "attributes": {},
         "path": [
           "Shadows",
@@ -1149,7 +1149,7 @@
           "value": "#0000004d",
           "type": "color"
         },
-        "name": "shadowsColorL",
+        "name": "shadows-color-l",
         "attributes": {},
         "path": [
           "Shadows",
@@ -1170,7 +1170,7 @@
           "value": "#ffffff",
           "type": "color"
         },
-        "name": "colorsNeutral0",
+        "name": "colors-neutral-0",
         "attributes": {},
         "path": [
           "Colors",
@@ -1187,7 +1187,7 @@
           "value": "#5c5c5f",
           "type": "color"
         },
-        "name": "colorsNeutral700",
+        "name": "colors-neutral-700",
         "attributes": {},
         "path": [
           "Colors",
@@ -1204,7 +1204,7 @@
           "value": "#1d1d1f",
           "type": "color"
         },
-        "name": "colorsNeutral900",
+        "name": "colors-neutral-900",
         "attributes": {},
         "path": [
           "Colors",
@@ -1223,7 +1223,7 @@
           "value": "#00000014",
           "type": "color"
         },
-        "name": "colorsOpacity8",
+        "name": "colors-opacity-8",
         "attributes": {},
         "path": [
           "Colors",
@@ -1240,7 +1240,7 @@
           "value": "#0000001f",
           "type": "color"
         },
-        "name": "colorsOpacity12",
+        "name": "colors-opacity-12",
         "attributes": {},
         "path": [
           "Colors",
@@ -1257,7 +1257,7 @@
           "value": "#00000033",
           "type": "color"
         },
-        "name": "colorsOpacity20",
+        "name": "colors-opacity-20",
         "attributes": {},
         "path": [
           "Colors",
@@ -1274,7 +1274,7 @@
           "value": "#0000004d",
           "type": "color"
         },
-        "name": "colorsOpacity30",
+        "name": "colors-opacity-30",
         "attributes": {},
         "path": [
           "Colors",
@@ -1291,7 +1291,7 @@
           "value": "#000000b3",
           "type": "color"
         },
-        "name": "colorsOpacity70",
+        "name": "colors-opacity-70",
         "attributes": {},
         "path": [
           "Colors",
@@ -1310,7 +1310,7 @@
           "value": "#6e27c8",
           "type": "color"
         },
-        "name": "colorsPrimaryPurple500",
+        "name": "colors-primary-purple-500",
         "attributes": {},
         "path": [
           "Colors",
@@ -1327,7 +1327,7 @@
           "value": "#9348f1",
           "type": "color"
         },
-        "name": "colorsPrimaryPurple400",
+        "name": "colors-primary-purple-400",
         "attributes": {},
         "path": [
           "Colors",
@@ -1344,7 +1344,7 @@
           "value": "#eee6f8",
           "type": "color"
         },
-        "name": "colorsPrimaryPurple50",
+        "name": "colors-primary-purple-50",
         "attributes": {},
         "path": [
           "Colors",
@@ -1361,7 +1361,7 @@
           "value": "#f3eff9",
           "type": "color"
         },
-        "name": "colorsPrimaryPurple20",
+        "name": "colors-primary-purple-20",
         "attributes": {},
         "path": [
           "Colors",
@@ -1380,7 +1380,7 @@
           "value": "#8783a2",
           "type": "color"
         },
-        "name": "colorsSecondaryGray300",
+        "name": "colors-secondary-gray-300",
         "attributes": {},
         "path": [
           "Colors",
@@ -1397,7 +1397,7 @@
           "value": "#a8a5bd",
           "type": "color"
         },
-        "name": "colorsSecondaryGray200",
+        "name": "colors-secondary-gray-200",
         "attributes": {},
         "path": [
           "Colors",
@@ -1414,7 +1414,7 @@
           "value": "#cac8d8",
           "type": "color"
         },
-        "name": "colorsSecondaryGray100",
+        "name": "colors-secondary-gray-100",
         "attributes": {},
         "path": [
           "Colors",
@@ -1431,7 +1431,7 @@
           "value": "#e0deea",
           "type": "color"
         },
-        "name": "colorsSecondaryGray80",
+        "name": "colors-secondary-gray-80",
         "attributes": {},
         "path": [
           "Colors",
@@ -1448,7 +1448,7 @@
           "value": "#eae9ef",
           "type": "color"
         },
-        "name": "colorsSecondaryGray50",
+        "name": "colors-secondary-gray-50",
         "attributes": {},
         "path": [
           "Colors",
@@ -1465,7 +1465,7 @@
           "value": "#f4f4f7",
           "type": "color"
         },
-        "name": "colorsSecondaryGray20",
+        "name": "colors-secondary-gray-20",
         "attributes": {},
         "path": [
           "Colors",
@@ -1484,7 +1484,7 @@
           "value": "#fb9f5d",
           "type": "color"
         },
-        "name": "colorsTertiaryOrange800",
+        "name": "colors-tertiary-orange-800",
         "attributes": {},
         "path": [
           "Colors",
@@ -1501,7 +1501,7 @@
           "value": "#1fde8e",
           "type": "color"
         },
-        "name": "colorsTertiaryGreen300",
+        "name": "colors-tertiary-green-300",
         "attributes": {},
         "path": [
           "Colors",
@@ -1518,7 +1518,7 @@
           "value": "#e92957",
           "type": "color"
         },
-        "name": "colorsTertiaryRed500",
+        "name": "colors-tertiary-red-500",
         "attributes": {},
         "path": [
           "Colors",
@@ -1535,7 +1535,7 @@
           "value": "#00ca5d",
           "type": "color"
         },
-        "name": "colorsTertiaryGreen500",
+        "name": "colors-tertiary-green-500",
         "attributes": {},
         "path": [
           "Colors",
@@ -1552,7 +1552,7 @@
           "value": "#391b1b",
           "type": "color"
         },
-        "name": "colorsTertiaryBrown900",
+        "name": "colors-tertiary-brown-900",
         "attributes": {},
         "path": [
           "Colors",
@@ -1571,7 +1571,7 @@
           "value": "#ffffff",
           "type": "color"
         },
-        "name": "colorsSysBackground20",
+        "name": "colors-sys-background-20",
         "attributes": {},
         "path": [
           "Colors",
@@ -1588,7 +1588,7 @@
           "value": "#5c5c5f",
           "type": "color"
         },
-        "name": "colorsSysBackground50",
+        "name": "colors-sys-background-50",
         "attributes": {},
         "path": [
           "Colors",
@@ -1605,7 +1605,7 @@
           "value": "#1d1d1f",
           "type": "color"
         },
-        "name": "colorsSysBackgroundDimmed",
+        "name": "colors-sys-background-dimmed",
         "attributes": {},
         "path": [
           "Colors",
@@ -1622,7 +1622,7 @@
           "value": "#ffffff",
           "type": "color"
         },
-        "name": "colorsSysBackgroundWhite",
+        "name": "colors-sys-background-white",
         "attributes": {},
         "path": [
           "Colors",
@@ -1643,7 +1643,7 @@
           "value": "#e92957",
           "type": "color"
         },
-        "name": "fontFamilyColorStatus",
+        "name": "font-family-color-status",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1660,7 +1660,7 @@
           "value": "#e92957",
           "type": "color"
         },
-        "name": "fontFamilyColorError",
+        "name": "font-family-color-error",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1677,7 +1677,7 @@
           "value": "#6e27c8",
           "type": "color"
         },
-        "name": "fontFamilyColorTrue",
+        "name": "font-family-color-true",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1694,7 +1694,7 @@
           "value": "#ffffff",
           "type": "color"
         },
-        "name": "fontFamilyColorExceptionTitle",
+        "name": "font-family-color-exception-title",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1711,7 +1711,7 @@
           "value": "#ffffff",
           "type": "color"
         },
-        "name": "fontFamilyColorExceptionTitle2",
+        "name": "font-family-color-exception-title-2",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1728,7 +1728,7 @@
           "value": "#8783a2",
           "type": "color"
         },
-        "name": "fontFamilyColorTextInfo",
+        "name": "font-family-color-text-info",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1745,7 +1745,7 @@
           "value": "#5c5c5f",
           "type": "color"
         },
-        "name": "fontFamilyColorTextSub",
+        "name": "font-family-color-text-sub",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1762,7 +1762,7 @@
           "value": "#1d1d1f",
           "type": "color"
         },
-        "name": "fontFamilyColorTextDefault",
+        "name": "font-family-color-text-default",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1779,7 +1779,7 @@
           "value": "#6e27c8",
           "type": "color"
         },
-        "name": "fontFamilyColorTextEmphasis",
+        "name": "font-family-color-text-emphasis",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1796,7 +1796,7 @@
           "value": "#a8a5bd",
           "type": "color"
         },
-        "name": "fontFamilyColorTextInfo2",
+        "name": "font-family-color-text-info2",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1813,7 +1813,7 @@
           "value": "#00ca5d",
           "type": "color"
         },
-        "name": "fontFamilyColorTextNaver",
+        "name": "font-family-color-text-naver",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1830,7 +1830,7 @@
           "value": "#391b1b",
           "type": "color"
         },
-        "name": "fontFamilyColorTextKakao",
+        "name": "font-family-color-text-kakao",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1849,7 +1849,7 @@
           "value": "SUIT Variable",
           "type": "text"
         },
-        "name": "fontFamilyTypeSuit",
+        "name": "font-family-type-suit",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1866,7 +1866,7 @@
           "value": "Montserrat",
           "type": "text"
         },
-        "name": "fontFamilyTypeMont",
+        "name": "font-family-type-mont",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1885,7 +1885,7 @@
           "value": "25rem",
           "type": "dimension"
         },
-        "name": "fontFamilyWeightRegular",
+        "name": "font-family-weight-regular",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1902,7 +1902,7 @@
           "value": "31.25rem",
           "type": "dimension"
         },
-        "name": "fontFamilyWeightMedium",
+        "name": "font-family-weight-medium",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1919,7 +1919,7 @@
           "value": "37.5rem",
           "type": "dimension"
         },
-        "name": "fontFamilyWeightSemibold",
+        "name": "font-family-weight-semibold",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1936,7 +1936,7 @@
           "value": "43.75rem",
           "type": "dimension"
         },
-        "name": "fontFamilyWeightBold",
+        "name": "font-family-weight-bold",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1955,7 +1955,7 @@
           "value": "3.25rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight52",
+        "name": "font-family-line-height-height-52",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1972,7 +1972,7 @@
           "value": "2.75rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight44",
+        "name": "font-family-line-height-height-44",
         "attributes": {},
         "path": [
           "Font-family",
@@ -1989,7 +1989,7 @@
           "value": "2.125rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight34",
+        "name": "font-family-line-height-height-34",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2006,7 +2006,7 @@
           "value": "1.5rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight24",
+        "name": "font-family-line-height-height-24",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2023,7 +2023,7 @@
           "value": "2rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight32",
+        "name": "font-family-line-height-height-32",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2040,7 +2040,7 @@
           "value": "1.25rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight20",
+        "name": "font-family-line-height-height-20",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2057,7 +2057,7 @@
           "value": "1.75rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight28",
+        "name": "font-family-line-height-height-28",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2074,7 +2074,7 @@
           "value": "1rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight16",
+        "name": "font-family-line-height-height-16",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2091,7 +2091,7 @@
           "value": "0.875rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight14",
+        "name": "font-family-line-height-height-14",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2108,7 +2108,7 @@
           "value": "0.75rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight12",
+        "name": "font-family-line-height-height-12",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2125,7 +2125,7 @@
           "value": "1.125rem",
           "type": "dimension"
         },
-        "name": "fontFamilyLineHeightHeight18",
+        "name": "font-family-line-height-height-18",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2144,7 +2144,7 @@
           "value": "2.5rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize40",
+        "name": "font-family-size-size-40",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2161,7 +2161,7 @@
           "value": "2rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize32",
+        "name": "font-family-size-size-32",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2178,7 +2178,7 @@
           "value": "1.75rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize28",
+        "name": "font-family-size-size-28",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2195,7 +2195,7 @@
           "value": "1.5rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize24",
+        "name": "font-family-size-size-24",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2212,7 +2212,7 @@
           "value": "1.25rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize20",
+        "name": "font-family-size-size-20",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2229,7 +2229,7 @@
           "value": "1.125rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize18",
+        "name": "font-family-size-size-18",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2246,7 +2246,7 @@
           "value": "1rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize16",
+        "name": "font-family-size-size-16",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2263,7 +2263,7 @@
           "value": "0.875rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize14",
+        "name": "font-family-size-size-14",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2280,7 +2280,7 @@
           "value": "0.75rem",
           "type": "dimension"
         },
-        "name": "fontFamilySizeSize12",
+        "name": "font-family-size-size-12",
         "attributes": {},
         "path": [
           "Font-family",
@@ -2307,7 +2307,7 @@
         },
         "type": "boxShadow"
       },
-      "name": "shadowSm",
+      "name": "shadow-sm",
       "attributes": {},
       "path": [
         "shadow",
@@ -2330,7 +2330,7 @@
         },
         "type": "boxShadow"
       },
-      "name": "shadowMd",
+      "name": "shadow-md",
       "attributes": {},
       "path": [
         "shadow",
@@ -2353,7 +2353,7 @@
         },
         "type": "boxShadow"
       },
-      "name": "shadowLg",
+      "name": "shadow-lg",
       "attributes": {},
       "path": [
         "shadow",
@@ -2371,7 +2371,7 @@
         "value": "640px",
         "type": "dimension"
       },
-      "name": "screensSm",
+      "name": "screens-sm",
       "attributes": {},
       "path": [
         "screens",
@@ -2387,7 +2387,7 @@
         "value": "720px",
         "type": "dimension"
       },
-      "name": "screensMd",
+      "name": "screens-md",
       "attributes": {},
       "path": [
         "screens",
@@ -2403,7 +2403,7 @@
         "value": "1024px",
         "type": "dimension"
       },
-      "name": "screensLg",
+      "name": "screens-lg",
       "attributes": {},
       "path": [
         "screens",
@@ -2419,7 +2419,7 @@
         "value": "1280px",
         "type": "dimension"
       },
-      "name": "screensXl",
+      "name": "screens-xl",
       "attributes": {},
       "path": [
         "screens",
@@ -2435,7 +2435,7 @@
         "value": "1440px",
         "type": "dimension"
       },
-      "name": "screens2xl",
+      "name": "screens-2xl",
       "attributes": {},
       "path": [
         "screens",
@@ -2451,7 +2451,7 @@
         "value": "1920px",
         "type": "dimension"
       },
-      "name": "screens3xl",
+      "name": "screens-3xl",
       "attributes": {},
       "path": [
         "screens",
@@ -2469,7 +2469,7 @@
         "value": "SUITE Variable",
         "type": "fontFamilies"
       },
-      "name": "fontFamilyDisplay",
+      "name": "font-family-display",
       "attributes": {},
       "path": [
         "fontFamily",
@@ -2485,7 +2485,7 @@
         "value": "Montserrat",
         "type": "fontFamilies"
       },
-      "name": "fontFamilyMontserrat",
+      "name": "font-family-montserrat",
       "attributes": {},
       "path": [
         "fontFamily",
@@ -2503,7 +2503,7 @@
         "value": "0.25rem",
         "type": "borderRadius"
       },
-      "name": "borderRadiusSm",
+      "name": "border-radius-sm",
       "attributes": {},
       "path": [
         "borderRadius",
@@ -2519,7 +2519,7 @@
         "value": "0.5rem",
         "type": "borderRadius"
       },
-      "name": "borderRadiusMd",
+      "name": "border-radius-md",
       "attributes": {},
       "path": [
         "borderRadius",
@@ -2535,7 +2535,7 @@
         "value": "0.75rem",
         "type": "borderRadius"
       },
-      "name": "borderRadiusLg",
+      "name": "border-radius-lg",
       "attributes": {},
       "path": [
         "borderRadius",

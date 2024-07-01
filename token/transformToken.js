@@ -49,7 +49,9 @@ fs.writeFileSync(
 
 console.log("token transformer completed");
 
-registerTransforms(StyleDictionaryModule);
+registerTransforms(StyleDictionaryModule, {
+  casing: "kebab", // name case 옵션 : [ camel, pascal, snake, kebab, constant ]
+});
 
 const sd = StyleDictionaryModule.extend({
   source: ["token/tokenBuild.json"],

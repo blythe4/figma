@@ -1,0 +1,37 @@
+name: [Final] CI Figma Token Transformer css & tailwindCSS
+on:
+  push:
+    branches:
+      - token
+    paths:
+      - "token/tokens.json"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+        with:
+          token: ${{ secrets.ACTIONS_TOKEN }}
+
+      - name: Setup Node.js environment
+        uses: actions/setup-node@v2.4.0
+
+      # Install dependencies
+      - name: Install dependencies
+        run: npm install
+
+      # Convert tokens according to Style Dictionary config
+      #- run: node token/transformToken.js
+      - name: Run token script
+        run: node multiTransform.js
+
+      - name: Commit changes
+        # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update Tokens
+          branch: theme # 명시적으로 브랜치를 지정합니다.
+          token: ${{ secrets.ACTIONS_TOKEN }}

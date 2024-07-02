@@ -11,10 +11,10 @@ export default function Home() {
       className={`${suit.variable} font-suit flex min-h-screen flex-col items-center justify-between`}
     >
       <Header />
-      <div className="flex flex-col gap-10">
+      <div className="Container flex flex-col gap-10">
         <span className="text-3xl font-bold">content</span>
-        <div className="flex flex-row gap-10">
-          <div className="flex md:flex-col gap-3">
+        <div className="flex flex-col md:flex-row gap-10">
+          <div className="flex flex-col gap-3">
             <Button
               label="Style 1"
               size="xs"
@@ -42,7 +42,7 @@ export default function Home() {
               onClick={() => console.log("button")}
             />
           </div>
-          <div className="flex md:flex-col gap-3">
+          <div className="flex flex-col gap-3">
             <Button
               label="Style 2"
               type="medium"
@@ -79,7 +79,7 @@ export default function Home() {
               onClick={() => console.log("button")}
             />
           </div>
-          <div className="flex md:flex-col gap-3">
+          <div className="flex flex-col gap-3">
             <Button
               label="Style 3"
               type="low"
@@ -116,7 +116,7 @@ export default function Home() {
               onClick={() => console.log("button")}
             />
           </div>
-          <div className="flex md:flex-col gap-3">
+          <div className="flex flex-col gap-3">
             <Button
               label="Style 4"
               type="disable"
@@ -150,6 +150,39 @@ export default function Home() {
               label="Style 4"
               type="disable"
               disabled
+              onClick={() => console.log("button")}
+            />
+          </div>
+          <div className="flex flex-col gap-3">
+            <Button
+              label="Style 5"
+              type="text"
+              fontSize="xs"
+              onClick={() => console.log("button")}
+            />
+            <Button
+              label="Style 5"
+              type="text"
+              fontSize="sm"
+              onClick={() => console.log("button")}
+            />
+            <Button
+              label="Style 5"
+              type="text"
+              onClick={() => console.log("button")}
+            />
+            <Button
+              label="Style 5"
+              type="text"
+              fontSize="xs"
+              line
+              onClick={() => console.log("button")}
+            />
+            <Button
+              label="Style 5"
+              type="text"
+              fontSize="sm"
+              line
               onClick={() => console.log("button")}
             />
           </div>

@@ -2,7 +2,6 @@ import type { Config } from "tailwindcss";
 
 const shadow = require("./src/utils/tailwind/shadow.tailwind");
 const screens = require("./src/utils/tailwind/screens.tailwind");
-const fontFamily = require("./src/utils/tailwind/fontFamily.tailwind");
 const colors = require("./src/utils/tailwind/colors.tailwind");
 const borderRadius = require("./src/utils/tailwind/borderRadius.tailwind");
 
@@ -17,7 +16,10 @@ const config: Config = {
     extend: {
       shadow,
       screens,
-      fontFamily,
+      fontFamily: {
+        suit: ["var(--font-suit)"],
+        montserrat: ["var(--font-montserrat)"],
+      },
       colors,
       borderRadius,
     },

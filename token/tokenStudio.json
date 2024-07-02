@@ -1,1305 +1,5 @@
 {
-  "Gap": {
-    "Gap-1": {
-      "value": "0.25rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.25rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-1",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-1"
-      ]
-    },
-    "Gap-2": {
-      "value": "0.5rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.5rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-2",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-2"
-      ]
-    },
-    "Gap-3": {
-      "value": "0.75rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.75rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-3",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-3"
-      ]
-    },
-    "Gap-4": {
-      "value": "1rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-4",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-4"
-      ]
-    },
-    "Gap-5": {
-      "value": "1.25rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1.25rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-5",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-5"
-      ]
-    },
-    "Gap-6": {
-      "value": "1.5rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1.5rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-6",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-6"
-      ]
-    },
-    "Gap-7": {
-      "value": "1.75rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1.75rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-7",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-7"
-      ]
-    },
-    "Gap-8": {
-      "value": "2rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "2rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-8",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-8"
-      ]
-    },
-    "Gap-9": {
-      "value": "2.25rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "2.25rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-9",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-9"
-      ]
-    },
-    "Gap-10": {
-      "value": "2.5rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "2.5rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-10",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-10"
-      ]
-    },
-    "Gap-11": {
-      "value": "3.75rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "3.75rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-11",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-11"
-      ]
-    },
-    "Gap-12": {
-      "value": "5rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "5rem",
-        "type": "dimension"
-      },
-      "name": "gap-gap-12",
-      "attributes": {},
-      "path": [
-        "Gap",
-        "Gap-12"
-      ]
-    }
-  },
-  "Radius": {
-    "Radius-L": {
-      "value": "0.75rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.75rem",
-        "type": "dimension"
-      },
-      "name": "radius-radius-l",
-      "attributes": {},
-      "path": [
-        "Radius",
-        "Radius-L"
-      ]
-    },
-    "Radius-M": {
-      "value": "0.5rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.5rem",
-        "type": "dimension"
-      },
-      "name": "radius-radius-m",
-      "attributes": {},
-      "path": [
-        "Radius",
-        "Radius-M"
-      ]
-    },
-    "Radius-S": {
-      "value": "0.25rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.25rem",
-        "type": "dimension"
-      },
-      "name": "radius-radius-s",
-      "attributes": {},
-      "path": [
-        "Radius",
-        "Radius-S"
-      ]
-    }
-  },
-  "Stroke": {
-    "line": {
-      "line-1": {
-        "value": "0.063rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.0625rem",
-          "type": "dimension"
-        },
-        "name": "stroke-line-line-1",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "line",
-          "line-1"
-        ]
-      },
-      "line-2": {
-        "value": "0.125rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.125rem",
-          "type": "dimension"
-        },
-        "name": "stroke-line-line-2",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "line",
-          "line-2"
-        ]
-      },
-      "line-3": {
-        "value": "0.188rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.1875rem",
-          "type": "dimension"
-        },
-        "name": "stroke-line-line-3",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "line",
-          "line-3"
-        ]
-      },
-      "line-4": {
-        "value": "0.25rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.25rem",
-          "type": "dimension"
-        },
-        "name": "stroke-line-line-4",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "line",
-          "line-4"
-        ]
-      },
-      "line-6": {
-        "value": "0.375rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.375rem",
-          "type": "dimension"
-        },
-        "name": "stroke-line-line-6",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "line",
-          "line-6"
-        ]
-      }
-    },
-    "Icon": {
-      "XS": {
-        "value": "0.063rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.0625rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-xs",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "XS"
-        ]
-      },
-      "S": {
-        "value": "0.075rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.07500000298023224rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-s",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "S"
-        ]
-      },
-      "M": {
-        "value": "0.087rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.08749999850988388rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-m",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "M"
-        ]
-      },
-      "L": {
-        "value": "0.1rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.10000000149011612rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-l",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "L"
-        ]
-      },
-      "XL": {
-        "value": "0.125rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.125rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-xl",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "XL"
-        ]
-      },
-      "XXL": {
-        "value": "0.188rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.1875rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-xxl",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "XXL"
-        ]
-      },
-      "color": {
-        "line-default": {
-          "value": "#1d1d1f",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#1d1d1f",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-line-default",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "line-default"
-          ]
-        },
-        "line-sub": {
-          "value": "#a8a5bd",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#a8a5bd",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-line-sub",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "line-sub"
-          ]
-        },
-        "line-info": {
-          "value": "#cac8d8",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#cac8d8",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-line-info",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "line-info"
-          ]
-        },
-        "bg-1": {
-          "value": "#ffffff",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#ffffff",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-bg-1",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "bg-1"
-          ]
-        },
-        "bg-2": {
-          "value": "#6e27c8",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#6e27c8",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-bg-2",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "bg-2"
-          ]
-        },
-        "line-default2": {
-          "value": "#6e27c8",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#6e27c8",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-line-default2",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "line-default2"
-          ]
-        },
-        "bg-3": {
-          "value": "#cac8d8",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#cac8d8",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-bg-3",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "bg-3"
-          ]
-        },
-        "line-right": {
-          "value": "#e0deea",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#e0deea",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-line-right",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "line-right"
-          ]
-        },
-        "line-red": {
-          "value": "#e92957",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#e92957",
-            "type": "color"
-          },
-          "name": "stroke-icon-color-line-red",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "Icon",
-            "color",
-            "line-red"
-          ]
-        }
-      },
-      "icon-XS": {
-        "value": "0.063rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.0625rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-icon-xs",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "icon-XS"
-        ]
-      },
-      "icon-S": {
-        "value": "0.075rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.07500000298023224rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-icon-s",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "icon-S"
-        ]
-      },
-      "icon-M": {
-        "value": "0.087rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.08749999850988388rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-icon-m",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "icon-M"
-        ]
-      },
-      "icon-L": {
-        "value": "0.1rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.10000000149011612rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-icon-l",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "icon-L"
-        ]
-      },
-      "icon-XL": {
-        "value": "0.125rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.125rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-icon-xl",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "icon-XL"
-        ]
-      },
-      "icon-XXL": {
-        "value": "0.188rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.1875rem",
-          "type": "dimension"
-        },
-        "name": "stroke-icon-icon-xxl",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "Icon",
-          "icon-XXL"
-        ]
-      }
-    },
-    "Stroke-1": {
-      "value": "0.063rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.0625rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-1",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-1"
-      ]
-    },
-    "Stroke-1-2": {
-      "value": "0.075rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.07500000298023224rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-1-2",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-1-2"
-      ]
-    },
-    "Stroke-1-4": {
-      "value": "0.087rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.08749999850988388rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-1-4",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-1-4"
-      ]
-    },
-    "Stroke-1-6": {
-      "value": "0.1rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.10000000149011612rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-1-6",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-1-6"
-      ]
-    },
-    "Stroke-2": {
-      "value": "0.125rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.125rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-2",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-2"
-      ]
-    },
-    "Stroke-3": {
-      "value": "0.188rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.1875rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-3",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-3"
-      ]
-    },
-    "Stroke-4": {
-      "value": "0.25rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.25rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-4",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-4"
-      ]
-    },
-    "Stroke-6": {
-      "value": "0.375rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.375rem",
-        "type": "dimension"
-      },
-      "name": "stroke-stroke-6",
-      "attributes": {},
-      "path": [
-        "Stroke",
-        "Stroke-6"
-      ]
-    },
-    "border": {
-      "color": {
-        "default": {
-          "value": "#e0deea",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#e0deea",
-            "type": "color"
-          },
-          "name": "stroke-border-color-default",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "border",
-            "color",
-            "default"
-          ]
-        },
-        "strong": {
-          "value": "#cac8d8",
-          "type": "color",
-          "filePath": "token/tokenBuild.json",
-          "isSource": true,
-          "original": {
-            "value": "#cac8d8",
-            "type": "color"
-          },
-          "name": "stroke-border-color-strong",
-          "attributes": {},
-          "path": [
-            "Stroke",
-            "border",
-            "color",
-            "strong"
-          ]
-        }
-      },
-      "border-1": {
-        "value": "0.063rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.0625rem",
-          "type": "dimension"
-        },
-        "name": "stroke-border-border-1",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "border",
-          "border-1"
-        ]
-      },
-      "border-2": {
-        "value": "0.125rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.125rem",
-          "type": "dimension"
-        },
-        "name": "stroke-border-border-2",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "border",
-          "border-2"
-        ]
-      },
-      "border-3": {
-        "value": "0.188rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.1875rem",
-          "type": "dimension"
-        },
-        "name": "stroke-border-border-3",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "border",
-          "border-3"
-        ]
-      },
-      "border-4": {
-        "value": "0.25rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.25rem",
-          "type": "dimension"
-        },
-        "name": "stroke-border-border-4",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "border",
-          "border-4"
-        ]
-      },
-      "border-6": {
-        "value": "0.375rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.375rem",
-          "type": "dimension"
-        },
-        "name": "stroke-border-border-6",
-        "attributes": {},
-        "path": [
-          "Stroke",
-          "border",
-          "border-6"
-        ]
-      }
-    }
-  },
-  "Shadows": {
-    "Blue-12": {
-      "value": "0.75rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "0.75rem",
-        "type": "dimension"
-      },
-      "name": "shadows-blue-12",
-      "attributes": {},
-      "path": [
-        "Shadows",
-        "Blue-12"
-      ]
-    },
-    "Blue-16": {
-      "value": "1rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1rem",
-        "type": "dimension"
-      },
-      "name": "shadows-blue-16",
-      "attributes": {},
-      "path": [
-        "Shadows",
-        "Blue-16"
-      ]
-    },
-    "Blue-20": {
-      "value": "1.25rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1.25rem",
-        "type": "dimension"
-      },
-      "name": "shadows-blue-20",
-      "attributes": {},
-      "path": [
-        "Shadows",
-        "Blue-20"
-      ]
-    },
-    "Blue": {
-      "S": {
-        "value": "0.75rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "0.75rem",
-          "type": "dimension"
-        },
-        "name": "shadows-blue-s",
-        "attributes": {},
-        "path": [
-          "Shadows",
-          "Blue",
-          "S"
-        ]
-      },
-      "M": {
-        "value": "1.25rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "1.25rem",
-          "type": "dimension"
-        },
-        "name": "shadows-blue-m",
-        "attributes": {},
-        "path": [
-          "Shadows",
-          "Blue",
-          "M"
-        ]
-      },
-      "L": {
-        "value": "1.75rem",
-        "type": "dimension",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "1.75rem",
-          "type": "dimension"
-        },
-        "name": "shadows-blue-l",
-        "attributes": {},
-        "path": [
-          "Shadows",
-          "Blue",
-          "L"
-        ]
-      }
-    },
-    "Blue-28": {
-      "value": "1.75rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1.75rem",
-        "type": "dimension"
-      },
-      "name": "shadows-blue-28",
-      "attributes": {},
-      "path": [
-        "Shadows",
-        "Blue-28"
-      ]
-    },
-    "Blue-24": {
-      "value": "1.5rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "1.5rem",
-        "type": "dimension"
-      },
-      "name": "shadows-blue-24",
-      "attributes": {},
-      "path": [
-        "Shadows",
-        "Blue-24"
-      ]
-    },
-    "Blue-36": {
-      "value": "2.25rem",
-      "type": "dimension",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "2.25rem",
-        "type": "dimension"
-      },
-      "name": "shadows-blue-36",
-      "attributes": {},
-      "path": [
-        "Shadows",
-        "Blue-36"
-      ]
-    },
-    "color": {
-      "S": {
-        "value": "#0000001f",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#0000001f",
-          "type": "color"
-        },
-        "name": "shadows-color-s",
-        "attributes": {},
-        "path": [
-          "Shadows",
-          "color",
-          "S"
-        ]
-      },
-      "M": {
-        "value": "#00000033",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#00000033",
-          "type": "color"
-        },
-        "name": "shadows-color-m",
-        "attributes": {},
-        "path": [
-          "Shadows",
-          "color",
-          "M"
-        ]
-      },
-      "L": {
-        "value": "#0000004d",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#0000004d",
-          "type": "color"
-        },
-        "name": "shadows-color-l",
-        "attributes": {},
-        "path": [
-          "Shadows",
-          "color",
-          "L"
-        ]
-      }
-    }
-  },
   "Colors": {
-    "Neutral": {
-      "0": {
-        "value": "#ffffff",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "name": "colors-neutral-0",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "Neutral",
-          "0"
-        ]
-      },
-      "700": {
-        "value": "#5c5c5f",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#5c5c5f",
-          "type": "color"
-        },
-        "name": "colors-neutral-700",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "Neutral",
-          "700"
-        ]
-      },
-      "900": {
-        "value": "#1d1d1f",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#1d1d1f",
-          "type": "color"
-        },
-        "name": "colors-neutral-900",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "Neutral",
-          "900"
-        ]
-      }
-    },
-    "opacity": {
-      "8": {
-        "value": "#00000014",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#00000014",
-          "type": "color"
-        },
-        "name": "colors-opacity-8",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "opacity",
-          "8"
-        ]
-      },
-      "12": {
-        "value": "#0000001f",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#0000001f",
-          "type": "color"
-        },
-        "name": "colors-opacity-12",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "opacity",
-          "12"
-        ]
-      },
-      "20": {
-        "value": "#00000033",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#00000033",
-          "type": "color"
-        },
-        "name": "colors-opacity-20",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "opacity",
-          "20"
-        ]
-      },
-      "30": {
-        "value": "#0000004d",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#0000004d",
-          "type": "color"
-        },
-        "name": "colors-opacity-30",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "opacity",
-          "30"
-        ]
-      },
-      "70": {
-        "value": "#000000b3",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#000000b3",
-          "type": "color"
-        },
-        "name": "colors-opacity-70",
-        "attributes": {},
-        "path": [
-          "Colors",
-          "opacity",
-          "70"
-        ]
-      }
-    },
     "Primary": {
       "Purple-500": {
         "value": "#6e27c8",
@@ -1474,6 +174,146 @@
         ]
       }
     },
+    "Neutral": {
+      "0": {
+        "value": "#ffffff",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "name": "colors-neutral-0",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "0"
+        ]
+      },
+      "700": {
+        "value": "#5c5c5f",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#5c5c5f",
+          "type": "color"
+        },
+        "name": "colors-neutral-700",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "700"
+        ]
+      },
+      "900": {
+        "value": "#1d1d1f",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#1d1d1f",
+          "type": "color"
+        },
+        "name": "colors-neutral-900",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "Neutral",
+          "900"
+        ]
+      }
+    },
+    "opacity": {
+      "8": {
+        "value": "#00000014",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#00000014",
+          "type": "color"
+        },
+        "name": "colors-opacity-8",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "8"
+        ]
+      },
+      "12": {
+        "value": "#0000001f",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#0000001f",
+          "type": "color"
+        },
+        "name": "colors-opacity-12",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "12"
+        ]
+      },
+      "20": {
+        "value": "#00000033",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#00000033",
+          "type": "color"
+        },
+        "name": "colors-opacity-20",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "20"
+        ]
+      },
+      "30": {
+        "value": "#0000004d",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#0000004d",
+          "type": "color"
+        },
+        "name": "colors-opacity-30",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "30"
+        ]
+      },
+      "70": {
+        "value": "#000000b3",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#000000b3",
+          "type": "color"
+        },
+        "name": "colors-opacity-70",
+        "attributes": {},
+        "path": [
+          "Colors",
+          "opacity",
+          "70"
+        ]
+      }
+    },
     "Tertiary": {
       "Orange-800": {
         "value": "#fb9f5d",
@@ -1632,6 +472,210 @@
       }
     }
   },
+  "Shadows": {
+    "color": {
+      "S": {
+        "value": "#0000001f",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#0000001f",
+          "type": "color"
+        },
+        "name": "shadows-color-s",
+        "attributes": {},
+        "path": [
+          "Shadows",
+          "color",
+          "S"
+        ]
+      },
+      "M": {
+        "value": "#00000033",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#00000033",
+          "type": "color"
+        },
+        "name": "shadows-color-m",
+        "attributes": {},
+        "path": [
+          "Shadows",
+          "color",
+          "M"
+        ]
+      },
+      "L": {
+        "value": "#0000004d",
+        "type": "color",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "#0000004d",
+          "type": "color"
+        },
+        "name": "shadows-color-l",
+        "attributes": {},
+        "path": [
+          "Shadows",
+          "color",
+          "L"
+        ]
+      }
+    },
+    "Blue-12": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.75rem",
+        "type": "dimension"
+      },
+      "name": "shadows-blue-12",
+      "attributes": {},
+      "path": [
+        "Shadows",
+        "Blue-12"
+      ]
+    },
+    "Blue-16": {
+      "value": "1rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1rem",
+        "type": "dimension"
+      },
+      "name": "shadows-blue-16",
+      "attributes": {},
+      "path": [
+        "Shadows",
+        "Blue-16"
+      ]
+    },
+    "Blue-20": {
+      "value": "1.25rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1.25rem",
+        "type": "dimension"
+      },
+      "name": "shadows-blue-20",
+      "attributes": {},
+      "path": [
+        "Shadows",
+        "Blue-20"
+      ]
+    },
+    "Blue": {
+      "S": {
+        "value": "0.75rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.75rem",
+          "type": "dimension"
+        },
+        "name": "shadows-blue-s",
+        "attributes": {},
+        "path": [
+          "Shadows",
+          "Blue",
+          "S"
+        ]
+      },
+      "M": {
+        "value": "1.25rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "1.25rem",
+          "type": "dimension"
+        },
+        "name": "shadows-blue-m",
+        "attributes": {},
+        "path": [
+          "Shadows",
+          "Blue",
+          "M"
+        ]
+      },
+      "L": {
+        "value": "1.75rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "1.75rem",
+          "type": "dimension"
+        },
+        "name": "shadows-blue-l",
+        "attributes": {},
+        "path": [
+          "Shadows",
+          "Blue",
+          "L"
+        ]
+      }
+    },
+    "Blue-28": {
+      "value": "1.75rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1.75rem",
+        "type": "dimension"
+      },
+      "name": "shadows-blue-28",
+      "attributes": {},
+      "path": [
+        "Shadows",
+        "Blue-28"
+      ]
+    },
+    "Blue-24": {
+      "value": "1.5rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1.5rem",
+        "type": "dimension"
+      },
+      "name": "shadows-blue-24",
+      "attributes": {},
+      "path": [
+        "Shadows",
+        "Blue-24"
+      ]
+    },
+    "Blue-36": {
+      "value": "2.25rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "2.25rem",
+        "type": "dimension"
+      },
+      "name": "shadows-blue-36",
+      "attributes": {},
+      "path": [
+        "Shadows",
+        "Blue-36"
+      ]
+    }
+  },
   "Font-family": {
     "Color": {
       "Status": {
@@ -1700,23 +744,6 @@
           "Font-family",
           "Color",
           "Exception-title"
-        ]
-      },
-      "Exception-title 2": {
-        "value": "#ffffff",
-        "type": "color",
-        "filePath": "token/tokenBuild.json",
-        "isSource": true,
-        "original": {
-          "value": "#ffffff",
-          "type": "color"
-        },
-        "name": "font-family-color-exception-title-2",
-        "attributes": {},
-        "path": [
-          "Font-family",
-          "Color",
-          "Exception-title 2"
         ]
       },
       "text-info": {
@@ -2290,6 +1317,773 @@
       }
     }
   },
+  "Stroke": {
+    "border": {
+      "color": {
+        "default": {
+          "value": "#e0deea",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#e0deea",
+            "type": "color"
+          },
+          "name": "stroke-border-color-default",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "border",
+            "color",
+            "default"
+          ]
+        },
+        "strong": {
+          "value": "#cac8d8",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#cac8d8",
+            "type": "color"
+          },
+          "name": "stroke-border-color-strong",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "border",
+            "color",
+            "strong"
+          ]
+        }
+      },
+      "border-1": {
+        "value": "0.063rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.0625rem",
+          "type": "dimension"
+        },
+        "name": "stroke-border-border-1",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "border",
+          "border-1"
+        ]
+      },
+      "border-2": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.125rem",
+          "type": "dimension"
+        },
+        "name": "stroke-border-border-2",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "border",
+          "border-2"
+        ]
+      },
+      "border-3": {
+        "value": "0.188rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.1875rem",
+          "type": "dimension"
+        },
+        "name": "stroke-border-border-3",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "border",
+          "border-3"
+        ]
+      },
+      "border-4": {
+        "value": "0.25rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.25rem",
+          "type": "dimension"
+        },
+        "name": "stroke-border-border-4",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "border",
+          "border-4"
+        ]
+      },
+      "border-6": {
+        "value": "0.375rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.375rem",
+          "type": "dimension"
+        },
+        "name": "stroke-border-border-6",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "border",
+          "border-6"
+        ]
+      }
+    },
+    "Icon": {
+      "color": {
+        "line-default": {
+          "value": "#1d1d1f",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#1d1d1f",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-line-default",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "line-default"
+          ]
+        },
+        "line-sub": {
+          "value": "#a8a5bd",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#a8a5bd",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-line-sub",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "line-sub"
+          ]
+        },
+        "line-info": {
+          "value": "#cac8d8",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#cac8d8",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-line-info",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "line-info"
+          ]
+        },
+        "bg-1": {
+          "value": "#ffffff",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#ffffff",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-bg-1",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "bg-1"
+          ]
+        },
+        "bg-2": {
+          "value": "#6e27c8",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#6e27c8",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-bg-2",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "bg-2"
+          ]
+        },
+        "line-default2": {
+          "value": "#6e27c8",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#6e27c8",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-line-default2",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "line-default2"
+          ]
+        },
+        "bg-3": {
+          "value": "#cac8d8",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#cac8d8",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-bg-3",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "bg-3"
+          ]
+        },
+        "line-right": {
+          "value": "#e0deea",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#e0deea",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-line-right",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "line-right"
+          ]
+        },
+        "line-red": {
+          "value": "#e92957",
+          "type": "color",
+          "filePath": "token/tokenBuild.json",
+          "isSource": true,
+          "original": {
+            "value": "#e92957",
+            "type": "color"
+          },
+          "name": "stroke-icon-color-line-red",
+          "attributes": {},
+          "path": [
+            "Stroke",
+            "Icon",
+            "color",
+            "line-red"
+          ]
+        }
+      },
+      "icon-XS": {
+        "value": "0.063rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.0625rem",
+          "type": "dimension"
+        },
+        "name": "stroke-icon-icon-xs",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "Icon",
+          "icon-XS"
+        ]
+      },
+      "icon-S": {
+        "value": "0.075rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.07500000298023224rem",
+          "type": "dimension"
+        },
+        "name": "stroke-icon-icon-s",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "Icon",
+          "icon-S"
+        ]
+      },
+      "icon-M": {
+        "value": "0.087rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.08749999850988388rem",
+          "type": "dimension"
+        },
+        "name": "stroke-icon-icon-m",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "Icon",
+          "icon-M"
+        ]
+      },
+      "icon-L": {
+        "value": "0.1rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.10000000149011612rem",
+          "type": "dimension"
+        },
+        "name": "stroke-icon-icon-l",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "Icon",
+          "icon-L"
+        ]
+      },
+      "icon-XL": {
+        "value": "0.125rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.125rem",
+          "type": "dimension"
+        },
+        "name": "stroke-icon-icon-xl",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "Icon",
+          "icon-XL"
+        ]
+      },
+      "icon-XXL": {
+        "value": "0.188rem",
+        "type": "dimension",
+        "filePath": "token/tokenBuild.json",
+        "isSource": true,
+        "original": {
+          "value": "0.1875rem",
+          "type": "dimension"
+        },
+        "name": "stroke-icon-icon-xxl",
+        "attributes": {},
+        "path": [
+          "Stroke",
+          "Icon",
+          "icon-XXL"
+        ]
+      }
+    },
+    "Stroke-1": {
+      "value": "0.063rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.0625rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-1",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-1"
+      ]
+    },
+    "Stroke-1-2": {
+      "value": "0.075rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.07500000298023224rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-1-2",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-1-2"
+      ]
+    },
+    "Stroke-1-4": {
+      "value": "0.087rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.08749999850988388rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-1-4",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-1-4"
+      ]
+    },
+    "Stroke-1-6": {
+      "value": "0.1rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.10000000149011612rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-1-6",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-1-6"
+      ]
+    },
+    "Stroke-2": {
+      "value": "0.125rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.125rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-2",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-2"
+      ]
+    },
+    "Stroke-3": {
+      "value": "0.188rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.1875rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-3",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-3"
+      ]
+    },
+    "Stroke-4": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.25rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-4",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-4"
+      ]
+    },
+    "Stroke-6": {
+      "value": "0.375rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.375rem",
+        "type": "dimension"
+      },
+      "name": "stroke-stroke-6",
+      "attributes": {},
+      "path": [
+        "Stroke",
+        "Stroke-6"
+      ]
+    }
+  },
+  "Radius": {
+    "Radius-L": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.75rem",
+        "type": "dimension"
+      },
+      "name": "radius-radius-l",
+      "attributes": {},
+      "path": [
+        "Radius",
+        "Radius-L"
+      ]
+    },
+    "Radius-M": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.5rem",
+        "type": "dimension"
+      },
+      "name": "radius-radius-m",
+      "attributes": {},
+      "path": [
+        "Radius",
+        "Radius-M"
+      ]
+    },
+    "Radius-S": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.25rem",
+        "type": "dimension"
+      },
+      "name": "radius-radius-s",
+      "attributes": {},
+      "path": [
+        "Radius",
+        "Radius-S"
+      ]
+    }
+  },
+  "Gap": {
+    "Gap-1": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.25rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-1",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-1"
+      ]
+    },
+    "Gap-2": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.5rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-2",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-2"
+      ]
+    },
+    "Gap-3": {
+      "value": "0.75rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "0.75rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-3",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-3"
+      ]
+    },
+    "Gap-4": {
+      "value": "1rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-4",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-4"
+      ]
+    },
+    "Gap-5": {
+      "value": "1.25rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1.25rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-5",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-5"
+      ]
+    },
+    "Gap-6": {
+      "value": "1.5rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1.5rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-6",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-6"
+      ]
+    },
+    "Gap-7": {
+      "value": "1.75rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "1.75rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-7",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-7"
+      ]
+    },
+    "Gap-8": {
+      "value": "2rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "2rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-8",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-8"
+      ]
+    },
+    "Gap-9": {
+      "value": "2.25rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "2.25rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-9",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-9"
+      ]
+    },
+    "Gap-10": {
+      "value": "2.5rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "2.5rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-10",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-10"
+      ]
+    },
+    "Gap-11": {
+      "value": "3.75rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "3.75rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-11",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-11"
+      ]
+    },
+    "Gap-12": {
+      "value": "5rem",
+      "type": "dimension",
+      "filePath": "token/tokenBuild.json",
+      "isSource": true,
+      "original": {
+        "value": "5rem",
+        "type": "dimension"
+      },
+      "name": "gap-gap-12",
+      "attributes": {},
+      "path": [
+        "Gap",
+        "Gap-12"
+      ]
+    }
+  },
   "shadow": {
     "sm": {
       "value": "inset 0 0 0.75rem 0 #0000001f",
@@ -2456,40 +2250,6 @@
       "path": [
         "screens",
         "3xl"
-      ]
-    }
-  },
-  "fontFamily": {
-    "display": {
-      "value": "'SUITE Variable'",
-      "type": "fontFamilies",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "SUITE Variable",
-        "type": "fontFamilies"
-      },
-      "name": "font-family-display",
-      "attributes": {},
-      "path": [
-        "fontFamily",
-        "display"
-      ]
-    },
-    "montserrat": {
-      "value": "Montserrat",
-      "type": "fontFamilies",
-      "filePath": "token/tokenBuild.json",
-      "isSource": true,
-      "original": {
-        "value": "Montserrat",
-        "type": "fontFamilies"
-      },
-      "name": "font-family-montserrat",
-      "attributes": {},
-      "path": [
-        "fontFamily",
-        "montserrat"
       ]
     }
   },

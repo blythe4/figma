@@ -2,14 +2,14 @@
 @tailwind components;
 @tailwind utilities;
 
-.Container {
+.Container .Inner {
   width: 100%;
   padding-left: var(--gap-gap-4);
   padding-right: var(--gap-gap-4);
 }
 
 @media (min-width: 1440px) {
-  .Container {
+  .Container .Inner {
     max-width: 1280px;
     margin: 0 auto;
     padding-left: var(--gap-gap-12);

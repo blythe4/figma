@@ -49,15 +49,17 @@ export default function Button({
 
   return (
     <button
-      className={`${
-        className !== undefined && className
-      } felx items-center justify-center ${width === "full" && "w-f"} px-11 
-      ${
-        type !== "text"
-          ? `border ${sizeClasses[size]}`
-          : `${fontSizeClasses[fontSize]}`
-      }
-       ${typeClasses[type]} ${line && "underline"}`}
+      className={`
+        ${className !== undefined && className}
+        felx items-center justify-center px-11 
+        ${width === "full" && "w-full"}
+        ${
+          type !== "text"
+            ? `border ${sizeClasses[size]}`
+            : `${fontSizeClasses[fontSize]}`
+        }
+        ${typeClasses[type]} ${line && "underline"}
+      `}
       disabled={disabled}
       onClick={onClick}
     >

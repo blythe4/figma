@@ -8,7 +8,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint",
-    "token": "token-transformer token/tokens.json token/tokenBuild.json global,'#1 primitive/Light','#2 Semantic/Mode 1' '#1 primitive/Light'",
+    "token": "token-transformer token/tokens.json token/tokenBuild.json global,'#1 primitive/Light','#2 Semantic/Mode 1' '#1 primitive/Light','#2 Semantic/Mode 1'",
     "theme": "node token/transformToken.js",
     "tailwind": "npm run token && npm run theme"
   },

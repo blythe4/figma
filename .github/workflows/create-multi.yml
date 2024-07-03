@@ -26,7 +26,7 @@ jobs:
       # Convert tokens according to Style Dictionary config
       #- run: node token/transformToken.js
       - name: Run token script
-        run: npm run tailwind
+        run: node token/transformToken.js
 
       - name: Commit changes
         # Add files that were created during a run, e.g. created files from style dictionary or token-transformer.

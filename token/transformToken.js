@@ -38,7 +38,7 @@ const transformedTokens = tokenValueType(tokens);
 // sets 옵션 설정
 const sets = ["global", "#1 primitive/Light", "#2 Semantic/Mode 1"]; // 변환할 세트 이름들
 // excludes 옵션 설정
-const excludes = ["#1 primitive/Light"];
+const excludes = ["#1 primitive/Light", "#2 Semantic/Mode 1"];
 const resolved = transformTokens(transformedTokens, sets, excludes);
 
 fs.writeFileSync(

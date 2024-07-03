@@ -81,7 +81,7 @@ const sd = StyleDictionaryModule.extend({
 
 sd.buildAllPlatforms();
 
-const types = ["shadow", "screens", "Colors", "borderRadius"];
+const types = ["shadow", "screens", "colors", "borderRadius"];
 
 types.map((type) => {
   const StyleDictionary = StyleDictionaryModule.extend(
